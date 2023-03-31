@@ -3,7 +3,9 @@ Anthony Baptista, Galadriel Brière, Anaïs Baudot
 
 ## Node prioritization in Leukemia
 
-![Top 20 genes and drugs prioritized in Leukemia](Leukemia/multiXrank_results/cytoscape_net/top20.png)
+<!-- ![Top 20 genes and drugs prioritized in Leukemia](Leukemia/multiXrank_results/cytoscape_net/top20.png) -->
+
+<img src="Leukemia/multiXrank_results/cytoscape_net/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia" style="width:300px;height:300px;">
 
 Run MultiXrank using the following command line:
 
