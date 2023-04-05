@@ -1,0 +1,137 @@
+Disease_DOID:1826	0.7134381616840645	epilepsy syndrome
+Disease_DOID:6364	0.1201734835620749	migraine
+Disease_DOID:0050425	0.0104425467617592	restless legs syndrome
+Disease_DOID:14330	0.0009677433677594	Parkinson's disease
+Disease_DOID:1319	0.0008024601432996	brain cancer
+Disease_DOID:11119	0.0006297140826498	Gilles de la Tourette syndrome
+Disease_DOID:5419	0.0005639813949772	schizophrenia
+Disease_DOID:1094	0.0005395458867459	attention deficit hyperactivity disorder
+Disease_DOID:8986	0.0005251587167233	narcolepsy
+Disease_DOID:2994	0.0005206920231346	germ cell cancer
+Disease_DOID:10652	0.0004936502470996	Alzheimer's disease
+Disease_DOID:332	0.000485237479514	amyotrophic lateral sclerosis
+Disease_DOID:3070	0.0004744427318198	malignant glioma
+Disease_DOID:12849	0.0004699219159985	autistic disorder
+Disease_DOID:2377	0.0004549436189213	multiple sclerosis
+Disease_DOID:3312	0.0004451013685095	bipolar disorder
+Disease_DOID:10941	0.0004107616205224	intracranial aneurysm
+Disease_DOID:3565	0.0003912112399505	meningioma
+Disease_DOID:784	0.000379352648335	chronic kidney failure
+Disease_DOID:1595	0.0003692492266883	endogenous depression
+Disease_DOID:0050741	0.0003669012283102	alcohol dependence
+Disease_DOID:1192	0.0003267321844351	peripheral nervous system neoplasm
+Disease_DOID:594	0.0002582183191001	panic disorder
+Disease_DOID:11949	0.0002502212481597	Creutzfeldt-Jakob disease
+Disease_DOID:10763	0.0002366719712086	hypertension
+Disease_DOID:5612	0.0002105823240021	spinal cancer
+Disease_DOID:11934	0.0002098910248124	head and neck cancer
+Disease_DOID:0060119	0.0001758318917109	pharynx cancer
+Disease_DOID:184	0.0001691241012024	bone cancer
+Disease_DOID:9296	0.0001592473033623	cleft lip
+Disease_DOID:2355	0.0001542394174171	anemia
+Disease_DOID:1115	0.0001416945490304	sarcoma
+Disease_DOID:12995	0.0001300644442708	conduct disorder
+Disease_DOID:12930	0.0001292095481172	dilated cardiomyopathy
+Disease_DOID:2841	0.0001194655552291	asthma
+Disease_DOID:7148	0.0001152545638254	rheumatoid arthritis
+Disease_DOID:1909	0.0001143300235118	melanoma
+Disease_DOID:12361	0.0001132670343798	Graves' disease
+Disease_DOID:2174	0.0001093072792982	ocular cancer
+Disease_DOID:1459	0.0001072047911281	hypothyroidism
+Disease_DOID:9970	0.0001009909663504	obesity
+Disease_DOID:12365	9.886980268126666e-05	malaria
+Disease_DOID:13241	9.632633313245057e-05	Behcet's disease
+Disease_DOID:1324	9.429215489795348e-05	lung cancer
+Disease_DOID:1686	9.07094319630775e-05	glaucoma
+Disease_DOID:9835	8.932085618784909e-05	refractive error
+Disease_DOID:1024	8.715062257236305e-05	leprosy
+Disease_DOID:8850	8.646470381632325e-05	salivary gland cancer
+Disease_DOID:3083	8.378845459471137e-05	chronic obstructive pulmonary disease
+Disease_DOID:9074	8.251805670859374e-05	systemic lupus erythematosus
+Disease_DOID:9352	8.058347774098673e-05	type 2 diabetes mellitus
+Disease_DOID:4159	7.591691669616124e-05	skin cancer
+Disease_DOID:4045	7.590954424615874e-05	muscle cancer
+Disease_DOID:0050742	7.419735048702122e-05	nicotine dependence
+Disease_DOID:1612	7.370223064769058e-05	breast cancer
+Disease_DOID:4481	7.34021768153727e-05	allergic rhinitis
+Disease_DOID:9744	7.274714159125855e-05	type 1 diabetes mellitus
+Disease_DOID:11476	7.24161782767806e-05	osteoporosis
+Disease_DOID:3393	6.785481046981847e-05	coronary artery disease
+Disease_DOID:3277	6.508460709580954e-05	thymus cancer
+Disease_DOID:418	6.418269641022037e-05	systemic scleroderma
+Disease_DOID:5559	6.368913990064075e-05	mediastinal cancer
+Disease_DOID:3310	6.26355429639431e-05	atopic dermatitis
+Disease_DOID:5408	6.049375027124992e-05	Paget's disease of bone
+Disease_DOID:1793	5.5556305100977626e-05	pancreatic cancer
+Disease_DOID:8893	5.432399477210916e-05	psoriasis
+Disease_DOID:635	5.359740495429911e-05	acquired immunodeficiency syndrome
+Disease_DOID:3953	5.326065710748009e-05	adrenal gland cancer
+Disease_DOID:10871	5.159246249241605e-05	age related macular degeneration
+Disease_DOID:11714	5.105721767259064e-05	gestational diabetes
+Disease_DOID:7693	5.09202202801658e-05	abdominal aortic aneurysm
+Disease_DOID:10608	5.086086004510066e-05	celiac disease
+Disease_DOID:1781	4.906826386899436e-05	thyroid cancer
+Disease_DOID:175	4.8756271049000165e-05	vascular cancer
+Disease_DOID:263	4.841183345048456e-05	kidney cancer
+Disease_DOID:8398	4.776682770059792e-05	osteoarthritis
+Disease_DOID:1312	4.506871195409028e-05	focal segmental glomerulosclerosis
+Disease_DOID:12306	4.497591859208573e-05	vitiligo
+Disease_DOID:1936	4.339094187120248e-05	atherosclerosis
+Disease_DOID:8778	4.234979691284204e-05	Crohn's disease
+Disease_DOID:2986	4.138396722795807e-05	IgA glomerulonephritis
+Disease_DOID:2531	4.116381349550294e-05	hematologic cancer
+Disease_DOID:824	3.979827264700051e-05	periodontitis
+Disease_DOID:11920	3.95104725652732e-05	tracheal cancer
+Disease_DOID:5875	3.945466769255735e-05	retroperitoneal cancer
+Disease_DOID:4989	3.8035951302619575e-05	pancreatitis
+Disease_DOID:5041	3.7571743192203786e-05	esophageal cancer
+Disease_DOID:7147	3.6709555864603706e-05	ankylosing spondylitis
+Disease_DOID:14004	3.453849589867658e-05	thoracic aortic aneurysm
+Disease_DOID:13223	3.329281161420532e-05	uterine fibroid
+Disease_DOID:2394	3.3266052012337806e-05	ovarian cancer
+Disease_DOID:10534	3.295709327436905e-05	stomach cancer
+Disease_DOID:11612	3.280894919597853e-05	polycystic ovary syndrome
+Disease_DOID:986	3.273991291425672e-05	alopecia areata
+Disease_DOID:8577	3.2608690018317004e-05	ulcerative colitis
+Disease_DOID:14221	3.151773395825076e-05	metabolic syndrome X
+Disease_DOID:12185	3.055629521730723e-05	otosclerosis
+Disease_DOID:219	3.0487879157462502e-05	colon cancer
+Disease_DOID:10283	2.979322877929149e-05	prostate cancer
+Disease_DOID:2596	2.8563982366081535e-05	larynx cancer
+Disease_DOID:216	2.8528576488138085e-05	dental caries
+Disease_DOID:1993	2.498301348530885e-05	rectum cancer
+Disease_DOID:11054	2.4365234302660828e-05	urinary bladder cancer
+Disease_DOID:0050156	2.388809188690101e-05	idiopathic pulmonary fibrosis
+Disease_DOID:1790	2.3783593032460347e-05	malignant mesothelioma
+Disease_DOID:9008	2.352867141115548e-05	psoriatic arthritis
+Disease_DOID:4362	2.2975853007831476e-05	cervical cancer
+Disease_DOID:363	2.2200853940285123e-05	uterine cancer
+Disease_DOID:119	2.0064074604979305e-05	vaginal cancer
+Disease_DOID:2998	2.004006436816624e-05	testicular cancer
+Disease_DOID:3571	1.960650008031573e-05	liver cancer
+Disease_DOID:2043	1.886335992652502e-05	hepatitis B
+Disease_DOID:1964	1.86194280424554e-05	fallopian tube cancer
+Disease_DOID:10976	1.7393987804036915e-05	membranous glomerulonephritis
+Disease_DOID:585	1.6613474018039913e-05	nephrolithiasis
+Disease_DOID:14227	1.574687261133936e-05	azoospermia
+Disease_DOID:13189	1.5403448586309484e-05	gout
+Disease_DOID:9206	1.5208458267140572e-05	Barrett's esophagus
+Disease_DOID:11555	1.5025516000338484e-05	Fuchs' endothelial dystrophy
+Disease_DOID:1725	1.4545288042877018e-05	peritoneum cancer
+Disease_DOID:10153	1.3739668330735977e-05	ileum cancer
+Disease_DOID:10021	1.3429021909181056e-05	duodenum cancer
+Disease_DOID:13499	1.3161649526842374e-05	jejunal cancer
+Disease_DOID:13378	1.2766497500221167e-05	Kawasaki disease
+Disease_DOID:1245	1.110827448250616e-05	vulva cancer
+Disease_DOID:12236	1.0195353858521e-05	primary biliary cirrhosis
+Disease_DOID:11615	9.04365626291107e-06	penile cancer
+Disease_DOID:11239	8.463241788508438e-06	appendix cancer
+Disease_DOID:11819	7.46618983582756e-06	ureter cancer
+Disease_DOID:4606	5.400690338165028e-06	bile duct cancer
+Disease_DOID:14268	5.302690724803209e-06	sclerosing cholangitis
+Disease_DOID:3121	4.9876362588369375e-06	gallbladder cancer
+Disease_DOID:90	4.371356565662363e-06	degenerative disc disease
+Disease_DOID:0060073	9.26612782277803e-07	lymphatic system cancer
+Disease_DOID:10811	4.3109969399658434e-08	nasal cavity cancer
+Disease_DOID:5099	2.4256825112211093e-09	middle ear cancer
+Disease_DOID:9917	0.0	pleural cancer
