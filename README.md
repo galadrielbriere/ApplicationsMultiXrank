@@ -24,7 +24,11 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 
 ### Run MultiXrank using the following command line:
 
+#### Build Hetionet network
+```python ~/ApplicationsMultiXrank/Epilepsy/HetionetDB_to_MultiXrankDB/hetionet_to_multixrank.py``` 
+
+#### Run MultiXrank
 ```python ~/ApplicationsMultiXrank/Epilepsy/script_bash.py``` 
 
-### Run the downstream analysis of MultiXrank scores
+#### Run downstream analysis of MultiXrank scores
 TODO
