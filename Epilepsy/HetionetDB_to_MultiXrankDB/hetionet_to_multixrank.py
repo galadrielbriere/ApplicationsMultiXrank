@@ -106,7 +106,7 @@ hetionet_MF = hetionet_nodes[hetionet_nodes["kind"] == "Molecular Function"]["id
 full_MFselfMF =  pd.DataFrame({'source': hetionet_MF, 'target': hetionet_MF})
 
 full_GO = pd.concat([full_BPselfBP, full_CCselfCC, full_MFselfMF])
-full_GO.to_csv(out_path_multi+"/9/GoselfGO.tsv", sep = '\t', header = None, index = False)
+full_GO.to_csv(out_path_multi+"/9/GOselfGO.tsv", sep = '\t', header = None, index = False)
 
 #### Bipartite 1-8: Gene - Pathway (GpPW)
 gene_pathway_GpPW = hetionet_edges[hetionet_edges["metaedge"] == "GpPW"].drop("metaedge", axis=1)
