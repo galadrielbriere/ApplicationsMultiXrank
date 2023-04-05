@@ -1,1 +1,1 @@
-OID:1826
+Disease_DOID:1826

@@ -40,37 +40,37 @@ multiplex:
         tau: [1]
     4:
         layers:
-            - multiplex/4/anatomy.tsv
+            - multiplex/4/AselfA.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     5:
         layers:
-            - multiplex/5/Symptoms.tsv
+            - multiplex/5/SselfS.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     6:
         layers:
-            - multiplex/6/SideEffect.tsv
+            - multiplex/6/SEselfSE.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     7:
         layers:
-            - multiplex/7/PharmacologicClass.tsv
+            - multiplex/7/PCselfPC.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     8:
         layers:
-            - multiplex/8/Pathways.tsv
+            - multiplex/8/PWselfPW.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     9:
         layers:
-            - multiplex/9/BiologicalProcess.tsv
+            - multiplex/9/GOselfGO.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
