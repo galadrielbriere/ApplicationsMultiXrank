@@ -1,0 +1,500 @@
+Cellular Component_GO:0045202	4.738277036899412e-06	synapse
+Biological Process_GO:0007267	4.5780874203792894e-06	cell-cell signaling
+Cellular Component_GO:0043005	3.985155784351175e-06	neuron projection
+Biological Process_GO:0099536	3.885097306185655e-06	synaptic signaling
+Biological Process_GO:0007268	3.885097306185655e-06	synaptic transmission
+Biological Process_GO:0099537	3.885097306185655e-06	trans-synaptic signaling
+Molecular Function_GO:0005509	3.816453701862914e-06	calcium ion binding
+Molecular Function_GO:0022857	3.778080656216122e-06	transmembrane transporter activity
+Biological Process_GO:0007417	3.545822175746713e-06	central nervous system development
+Molecular Function_GO:0022891	3.5254813811104904e-06	substrate-specific transmembrane transporter activity
+Molecular Function_GO:0015075	3.4137631288097287e-06	ion transmembrane transporter activity
+Cellular Component_GO:0098590	3.308387406438344e-06	plasma membrane region
+Biological Process_GO:0034220	3.2525363309036538e-06	ion transmembrane transport
+Biological Process_GO:0007610	3.012755846242765e-06	behavior
+Cellular Component_GO:0098796	3.008048068386168e-06	membrane protein complex
+Cellular Component_GO:0042175	2.7961392577484152e-06	nuclear outer membrane-endoplasmic reticulum membrane network
+Cellular Component_GO:0005789	2.7908717595746885e-06	endoplasmic reticulum membrane
+Biological Process_GO:0006812	2.714659039804637e-06	cation transport
+Molecular Function_GO:0004930	2.6726969689016728e-06	G-protein coupled receptor activity
+Biological Process_GO:0060322	2.6457086470721266e-06	head development
+Cellular Component_GO:0036477	2.5926433167412635e-06	somatodendritic compartment
+Biological Process_GO:0007420	2.5867035822770973e-06	brain development
+Biological Process_GO:0044708	2.5456772405627027e-06	single-organism behavior
+Biological Process_GO:0009607	2.535542177739458e-06	response to biotic stimulus
+Molecular Function_GO:0022803	2.4810491967245624e-06	passive transmembrane transporter activity
+Molecular Function_GO:0015267	2.4810491967245624e-06	channel activity
+Molecular Function_GO:0022838	2.457566278114021e-06	substrate-specific channel activity
+Molecular Function_GO:0005216	2.3948670122585758e-06	ion channel activity
+Biological Process_GO:0010243	2.374677895743954e-06	response to organonitrogen compound
+Molecular Function_GO:0008324	2.37201411430814e-06	cation transmembrane transporter activity
+Biological Process_GO:0006820	2.330072016339244e-06	anion transport
+Molecular Function_GO:0022836	2.3189041085148745e-06	gated channel activity
+Biological Process_GO:0055114	2.300848654105665e-06	oxidation-reduction process
+Biological Process_GO:0030001	2.2951913976749087e-06	metal ion transport
+Biological Process_GO:0048878	2.2941532112020044e-06	chemical homeostasis
+Biological Process_GO:0014070	2.275663415276516e-06	response to organic cyclic compound
+Cellular Component_GO:0030424	2.2689652981006147e-06	axon
+Biological Process_GO:0098660	2.249415291315054e-06	inorganic ion transmembrane transport
+Biological Process_GO:0043269	2.2413228374780016e-06	regulation of ion transport
+Biological Process_GO:0019725	2.1398609872831657e-06	cellular homeostasis
+Cellular Component_GO:0009986	2.1037151510046577e-06	cell surface
+Biological Process_GO:0098655	2.072706050494877e-06	cation transmembrane transport
+Biological Process_GO:0031175	2.072565998808051e-06	neuron projection development
+Biological Process_GO:0098609	2.0523068827755925e-06	cell-cell adhesion
+Biological Process_GO:0019752	2.033785096091047e-06	carboxylic acid metabolic process
+Cellular Component_GO:0098797	2.0052279447339896e-06	plasma membrane protein complex
+Molecular Function_GO:0022890	1.993138160604942e-06	inorganic cation transmembrane transporter activity
+Cellular Component_GO:0044297	1.9876265197582728e-06	cell body
+Cellular Component_GO:1990351	1.9816103327698013e-06	transporter complex
+Cellular Component_GO:1902495	1.9712879389024807e-06	transmembrane transporter complex
+Biological Process_GO:0042493	1.930828708589197e-06	response to drug
+Molecular Function_GO:0046873	1.929882642252953e-06	metal ion transmembrane transporter activity
+Cellular Component_GO:0034702	1.8848550147943191e-06	ion channel complex
+Cellular Component_GO:0043025	1.8827735853370249e-06	neuronal cell body
+Biological Process_GO:0055082	1.866778708300588e-06	cellular chemical homeostasis
+Biological Process_GO:0050801	1.8553731553859084e-06	ion homeostasis
+Biological Process_GO:0098771	1.8347849882382252e-06	inorganic ion homeostasis
+Cellular Component_GO:0098794	1.814274406698032e-06	postsynapse
+Cellular Component_GO:0005768	1.8108504714055068e-06	endosome
+Biological Process_GO:0098662	1.799002006016326e-06	inorganic cation transmembrane transport
+Biological Process_GO:0033993	1.7698782652337297e-06	response to lipid
+Biological Process_GO:0044255	1.7260786130339257e-06	cellular lipid metabolic process
+Biological Process_GO:0055080	1.725171093275887e-06	cation homeostasis
+Biological Process_GO:0042391	1.7134337970552791e-06	regulation of membrane potential
+Biological Process_GO:0015711	1.6926065477514762e-06	organic anion transport
+Biological Process_GO:0032880	1.6884326256077702e-06	regulation of protein localization
+Biological Process_GO:0006873	1.6806741965562017e-06	cellular ion homeostasis
+Molecular Function_GO:0016491	1.6728663513147548e-06	oxidoreductase activity
+Biological Process_GO:0051046	1.668839906875797e-06	regulation of secretion
+Biological Process_GO:0098742	1.6570315809018355e-06	cell-cell adhesion via plasma-membrane adhesion molecules
+Cellular Component_GO:0005730	1.6545104407032952e-06	nucleolus
+Biological Process_GO:0034762	1.6311400259654356e-06	regulation of transmembrane transport
+Cellular Component_GO:0030425	1.62966656181856e-06	dendrite
+Molecular Function_GO:0008092	1.6206226379611423e-06	cytoskeletal protein binding
+Biological Process_GO:0008284	1.616272921747984e-06	positive regulation of cell proliferation
+Biological Process_GO:0034765	1.614735814979602e-06	regulation of ion transmembrane transport
+Biological Process_GO:0050905	1.6140855385425896e-06	neuromuscular process
+Biological Process_GO:0030003	1.605588723287559e-06	cellular cation homeostasis
+Biological Process_GO:0007156	1.603698322813714e-06	homophilic cell adhesion via plasma membrane adhesion molecules
+Molecular Function_GO:0005261	1.595592820133866e-06	cation channel activity
+Biological Process_GO:0015672	1.5888372578386586e-06	monovalent inorganic cation transport
+Biological Process_GO:1903530	1.5690604658793491e-06	regulation of secretion by cell
+Biological Process_GO:0044712	1.5575305483023848e-06	single-organism catabolic process
+Biological Process_GO:0042330	1.5434873854536717e-06	taxis
+Biological Process_GO:0006935	1.5434873854536717e-06	chemotaxis
+Biological Process_GO:0007600	1.5421899344464426e-06	sensory perception
+Biological Process_GO:0055065	1.541135777243246e-06	metal ion homeostasis
+Biological Process_GO:0050804	1.535970436551251e-06	modulation of synaptic transmission
+Biological Process_GO:0008283	1.5320570308214836e-06	cell proliferation
+Cellular Component_GO:0031012	1.5219598406787552e-06	extracellular matrix
+Biological Process_GO:0050890	1.521929248287586e-06	cognition
+Cellular Component_GO:0098793	1.5059126628245256e-06	presynapse
+Molecular Function_GO:0032403	1.5026442611086684e-06	protein complex binding
+Cellular Component_GO:0048471	1.4956900183924866e-06	perinuclear region of cytoplasm
+Biological Process_GO:0043603	1.4898107348723271e-06	cellular amide metabolic process
+Cellular Component_GO:0097060	1.484183602314453e-06	synaptic membrane
+Molecular Function_GO:0015077	1.4809774478418795e-06	monovalent inorganic cation transmembrane transporter activity
+Molecular Function_GO:0005244	1.466376454475635e-06	voltage-gated ion channel activity
+Molecular Function_GO:0022832	1.466376454475635e-06	voltage-gated channel activity
+Biological Process_GO:0044057	1.460584030364263e-06	regulation of system process
+Biological Process_GO:0006875	1.4505222964951273e-06	cellular metal ion homeostasis
+Molecular Function_GO:0042803	1.4496825658660777e-06	protein homodimerization activity
+Molecular Function_GO:0000988	1.4412251346246732e-06	transcription factor activity, protein binding
+Cellular Component_GO:0005773	1.4401708011357968e-06	vacuole
+Molecular Function_GO:0000989	1.4400147414601578e-06	transcription factor activity, transcription factor binding
+Biological Process_GO:0022603	1.424474105800186e-06	regulation of anatomical structure morphogenesis
+Molecular Function_GO:0016782	1.4186658923400577e-06	transferase activity, transferring sulfur-containing groups
+Biological Process_GO:0060548	1.4173998902121402e-06	negative regulation of cell death
+Cellular Component_GO:0005578	1.4163678609710176e-06	proteinaceous extracellular matrix
+Biological Process_GO:1901701	1.4134523463251751e-06	cellular response to oxygen-containing compound
+Biological Process_GO:0051050	1.4070799783141203e-06	positive regulation of transport
+Biological Process_GO:0009636	1.3983982789650294e-06	response to toxic substance
+Biological Process_GO:0032990	1.3972156075900452e-06	cell part morphogenesis
+Biological Process_GO:0048646	1.394915206394529e-06	anatomical structure formation involved in morphogenesis
+Molecular Function_GO:0008410	1.394302486022536e-06	CoA-transferase activity
+Biological Process_GO:0048858	1.3902720410840775e-06	cell projection morphogenesis
+Biological Process_GO:0007611	1.3898962496363528e-06	learning or memory
+Biological Process_GO:0000904	1.3878949287832928e-06	cell morphogenesis involved in differentiation
+Cellular Component_GO:0005764	1.386207271221852e-06	lysosome
+Cellular Component_GO:0000323	1.386207271221852e-06	lytic vacuole
+Biological Process_GO:0061564	1.384002192617749e-06	axon development
+Molecular Function_GO:0019904	1.3828346570583182e-06	protein domain specific binding
+Biological Process_GO:0003013	1.3809048481799352e-06	circulatory system process
+Biological Process_GO:0008015	1.380022819742191e-06	blood circulation
+Biological Process_GO:0001934	1.3649129774402126e-06	positive regulation of protein phosphorylation
+Molecular Function_GO:0030234	1.3619008190446358e-06	enzyme regulator activity
+Biological Process_GO:0034097	1.3617590501516838e-06	response to cytokine
+Biological Process_GO:0048870	1.3588967439182686e-06	cell motility
+Biological Process_GO:0051674	1.3588967439182686e-06	localization of cell
+Biological Process_GO:0050884	1.354688677760876e-06	neuromuscular process controlling posture
+Biological Process_GO:0043069	1.349075441044732e-06	negative regulation of programmed cell death
+Biological Process_GO:0044703	1.347409469836826e-06	multi-organism reproductive process
+Biological Process_GO:0043066	1.345698011363263e-06	negative regulation of apoptotic process
+Molecular Function_GO:0003712	1.343373200068547e-06	transcription cofactor activity
+Biological Process_GO:0007187	1.337966643097726e-06	G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger
+Biological Process_GO:0006468	1.3233941019950124e-06	protein phosphorylation
+Biological Process_GO:0072507	1.3188620463793094e-06	divalent inorganic cation homeostasis
+Molecular Function_GO:0008233	1.313380416766573e-06	peptidase activity
+Biological Process_GO:0009887	1.296431272021049e-06	organ morphogenesis
+Biological Process_GO:0055074	1.2960250105472911e-06	calcium ion homeostasis
+Biological Process_GO:0005975	1.295999081104029e-06	carbohydrate metabolic process
+Molecular Function_GO:0022843	1.2952970349809645e-06	voltage-gated cation channel activity
+Molecular Function_GO:0070011	1.2907803141888131e-06	peptidase activity, acting on L-amino acid peptides
+Biological Process_GO:0072503	1.2872640232434989e-06	cellular divalent inorganic cation homeostasis
+Biological Process_GO:0006874	1.2852687741885176e-06	cellular calcium ion homeostasis
+Biological Process_GO:0051707	1.282530535242751e-06	response to other organism
+Biological Process_GO:0043207	1.282530535242751e-06	response to external biotic stimulus
+Biological Process_GO:1902533	1.2776712106222785e-06	positive regulation of intracellular signal transduction
+Biological Process_GO:0048812	1.2748433006176389e-06	neuron projection morphogenesis
+Biological Process_GO:0060284	1.2719643603333265e-06	regulation of cell development
+Biological Process_GO:0048667	1.2606762864967205e-06	cell morphogenesis involved in neuron differentiation
+Biological Process_GO:0009991	1.2606268759436375e-06	response to extracellular stimulus
+Biological Process_GO:0090066	1.2561568600809977e-06	regulation of anatomical structure size
+Molecular Function_GO:0016772	1.2551375280646646e-06	transferase activity, transferring phosphorus-containing groups
+Cellular Component_GO:0043235	1.2519045691915578e-06	receptor complex
+Biological Process_GO:0046903	1.2501592774021624e-06	secretion
+Biological Process_GO:0051960	1.2487431419327346e-06	regulation of nervous system development
+Biological Process_GO:0045597	1.2466741696719814e-06	positive regulation of cell differentiation
+Biological Process_GO:0048545	1.2360268456896311e-06	response to steroid hormone
+Molecular Function_GO:0016829	1.231788629251567e-06	lyase activity
+Biological Process_GO:0032101	1.2239521510712471e-06	regulation of response to external stimulus
+Biological Process_GO:0007626	1.2102213972017752e-06	locomotory behavior
+Biological Process_GO:0007409	1.206158005306076e-06	axonogenesis
+Biological Process_GO:0016477	1.1950141216211755e-06	cell migration
+Biological Process_GO:0010817	1.1945513284103123e-06	regulation of hormone levels
+Biological Process_GO:0016482	1.1942273832251497e-06	cytoplasmic transport
+Cellular Component_GO:0045211	1.1899311926928942e-06	postsynaptic membrane
+Biological Process_GO:1901699	1.187308113432962e-06	cellular response to nitrogen compound
+Molecular Function_GO:0016788	1.1833854724141671e-06	hydrolase activity, acting on ester bonds
+Biological Process_GO:0043086	1.1808167091101208e-06	negative regulation of catalytic activity
+Biological Process_GO:0006396	1.1792360114103855e-06	RNA processing
+Cellular Component_GO:0070161	1.1783812947781915e-06	anchoring junction
+Biological Process_GO:0072358	1.1740899722973663e-06	cardiovascular system development
+Biological Process_GO:0072359	1.1740899722973663e-06	circulatory system development
+Biological Process_GO:0031667	1.173676079487349e-06	response to nutrient levels
+Cellular Component_GO:0005912	1.1708788267696454e-06	adherens junction
+Biological Process_GO:0009314	1.1503756771612327e-06	response to radiation
+Biological Process_GO:0050767	1.1457008499085465e-06	regulation of neurogenesis
+Biological Process_GO:0032504	1.1345424363590108e-06	multicellular organism reproduction
+Cellular Component_GO:0099503	1.1339510952557186e-06	secretory vesicle
+Biological Process_GO:0009611	1.1326928447254118e-06	response to wounding
+Biological Process_GO:0008285	1.131053760031385e-06	negative regulation of cell proliferation
+Biological Process_GO:0048609	1.130428347187079e-06	multicellular organismal reproductive process
+Biological Process_GO:0030900	1.1301262839804723e-06	forebrain development
+Biological Process_GO:0009790	1.1293378235783342e-06	embryo development
+Biological Process_GO:0071417	1.1239955359622336e-06	cellular response to organonitrogen compound
+Biological Process_GO:0006366	1.1159142514637396e-06	transcription from RNA polymerase II promoter
+Biological Process_GO:0061024	1.1141665232705132e-06	membrane organization
+Biological Process_GO:0051345	1.1133641674055555e-06	positive regulation of hydrolase activity
+Molecular Function_GO:0016301	1.1065395869046311e-06	kinase activity
+Biological Process_GO:0032870	1.0956148836273158e-06	cellular response to hormone stimulus
+Biological Process_GO:0007264	1.0944621909496543e-06	small GTPase mediated signal transduction
+Biological Process_GO:0070201	1.0934899990511144e-06	regulation of establishment of protein localization
+Biological Process_GO:1901615	1.092243096304724e-06	organic hydroxy compound metabolic process
+Cellular Component_GO:0034703	1.087158830916353e-06	cation channel complex
+Molecular Function_GO:0008509	1.0868709367190477e-06	anion transmembrane transporter activity
+Biological Process_GO:0044723	1.0783744354416733e-06	single-organism carbohydrate metabolic process
+Molecular Function_GO:0016773	1.0700373238137002e-06	phosphotransferase activity, alcohol group as acceptor
+Biological Process_GO:0010035	1.065130531629728e-06	response to inorganic substance
+Molecular Function_GO:0022804	1.0582919503474829e-06	active transmembrane transporter activity
+Biological Process_GO:0071345	1.055366692784443e-06	cellular response to cytokine stimulus
+Biological Process_GO:0040012	1.047088980558332e-06	regulation of locomotion
+Biological Process_GO:0043549	1.0424823305079617e-06	regulation of kinase activity
+Biological Process_GO:0016071	1.0418170095134556e-06	mRNA metabolic process
+Cellular Component_GO:0044306	1.0382506534448726e-06	neuron projection terminus
+Biological Process_GO:0043408	1.0366700920068365e-06	regulation of MAPK cascade
+Biological Process_GO:0003012	1.035021819314685e-06	muscle system process
+Biological Process_GO:0070848	1.0343683345432828e-06	response to growth factor
+Biological Process_GO:0051093	1.032820733994056e-06	negative regulation of developmental process
+Molecular Function_GO:0000981	1.0285665147863651e-06	RNA polymerase II transcription factor activity, sequence-specific DNA binding
+Biological Process_GO:0007612	1.0284465537045895e-06	learning
+Molecular Function_GO:0001067	1.028260330463431e-06	regulatory region nucleic acid binding
+Molecular Function_GO:0000975	1.0278279270846037e-06	regulatory region DNA binding
+Biological Process_GO:0019637	1.0276481202145731e-06	organophosphate metabolic process
+Cellular Component_GO:0005740	1.0268902413005094e-06	mitochondrial envelope
+Molecular Function_GO:0044212	1.0261087202332368e-06	transcription regulatory region DNA binding
+Biological Process_GO:0051223	1.0249574334221756e-06	regulation of protein transport
+Biological Process_GO:0032940	1.0225712136412552e-06	secretion by cell
+Biological Process_GO:0045859	1.019826760097664e-06	regulation of protein kinase activity
+Cellular Component_GO:0016323	1.019381582512543e-06	basolateral plasma membrane
+Biological Process_GO:0040008	1.014158882582985e-06	regulation of growth
+Cellular Component_GO:0043679	1.0122880962386723e-06	axon terminus
+Biological Process_GO:0019953	1.0091809157049666e-06	sexual reproduction
+Biological Process_GO:0000122	1.0045246961886318e-06	negative regulation of transcription from RNA polymerase II promoter
+Biological Process_GO:0022411	1.003445249923192e-06	cellular component disassembly
+Biological Process_GO:0002520	1.000723200677447e-06	immune system development
+Molecular Function_GO:0016817	9.956827530577084e-07	hydrolase activity, acting on acid anhydrides
+Molecular Function_GO:0016818	9.955429943723732e-07	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+Biological Process_GO:0007169	9.94617660613799e-07	transmembrane receptor protein tyrosine kinase signaling pathway
+Molecular Function_GO:0016462	9.943094342626993e-07	pyrophosphatase activity
+Cellular Component_GO:0045177	9.939196297471966e-07	apical part of cell
+Biological Process_GO:0051259	9.931280944737569e-07	protein oligomerization
+Biological Process_GO:0048534	9.925518332448102e-07	hematopoietic or lymphoid organ development
+Biological Process_GO:0097305	9.899868100962677e-07	response to alcohol
+Biological Process_GO:0071363	9.86766623424087e-07	cellular response to growth factor stimulus
+Biological Process_GO:0006936	9.814745062498024e-07	muscle contraction
+Molecular Function_GO:0003690	9.807121155847136e-07	double-stranded DNA binding
+Biological Process_GO:0006897	9.800371013859124e-07	endocytosis
+Molecular Function_GO:0016835	9.7893930615372e-07	carbon-oxygen lyase activity
+Cellular Component_GO:0031966	9.742410334244076e-07	mitochondrial membrane
+Molecular Function_GO:0017111	9.706057431622875e-07	nucleoside-triphosphatase activity
+Biological Process_GO:0050878	9.669026950812497e-07	regulation of body fluid levels
+Biological Process_GO:0071705	9.65152080397232e-07	nitrogen compound transport
+Biological Process_GO:0008202	9.637921214572016e-07	steroid metabolic process
+Biological Process_GO:0071407	9.633365690253338e-07	cellular response to organic cyclic compound
+Biological Process_GO:0006397	9.630935473560009e-07	mRNA processing
+Biological Process_GO:0045664	9.627708621487742e-07	regulation of neuron differentiation
+Biological Process_GO:0030162	9.61903541937134e-07	regulation of proteolysis
+Cellular Component_GO:0000139	9.556028604870116e-07	Golgi membrane
+Biological Process_GO:0031347	9.544919633510366e-07	regulation of defense response
+Molecular Function_GO:0015276	9.540536750944451e-07	ligand-gated ion channel activity
+Molecular Function_GO:0022834	9.540536750944451e-07	ligand-gated channel activity
+Biological Process_GO:1903522	9.525289053652504e-07	regulation of blood circulation
+Biological Process_GO:0006518	9.50922566202422e-07	peptide metabolic process
+Biological Process_GO:0002684	9.473949452971984e-07	positive regulation of immune system process
+Biological Process_GO:1901652	9.44744445656064e-07	response to peptide
+Biological Process_GO:0007188	9.441386847255504e-07	adenylate cyclase-modulating G-protein coupled receptor signaling pathway
+Cellular Component_GO:0030133	9.411832640240964e-07	transport vesicle
+Biological Process_GO:0070482	9.407786541250504e-07	response to oxygen levels
+Molecular Function_GO:0003713	9.407380942897272e-07	transcription coactivator activity
+Biological Process_GO:0072511	9.403916237230348e-07	divalent inorganic cation transport
+Biological Process_GO:0032787	9.388012076582896e-07	monocarboxylic acid metabolic process
+Biological Process_GO:0008610	9.377187546963064e-07	lipid biosynthetic process
+Biological Process_GO:0070838	9.365449910808215e-07	divalent metal ion transport
+Biological Process_GO:1902580	9.351095265199844e-07	single-organism cellular localization
+Biological Process_GO:0006954	9.3021724015236e-07	inflammatory response
+Biological Process_GO:0051347	9.287473087676208e-07	positive regulation of transferase activity
+Cellular Component_GO:0012506	9.276687255220493e-07	vesicle membrane
+Biological Process_GO:0035637	9.264022643881722e-07	multicellular organismal signaling
+Biological Process_GO:0043434	9.252255775658996e-07	response to peptide hormone
+Biological Process_GO:0051480	9.238003729365168e-07	regulation of cytosolic calcium ion concentration
+Biological Process_GO:0003018	9.219043314794344e-07	vascular process in circulatory system
+Biological Process_GO:0007010	9.212820146289785e-07	cytoskeleton organization
+Cellular Component_GO:0043209	9.192785877335862e-07	myelin sheath
+Biological Process_GO:0009617	9.181367060166106e-07	response to bacterium
+Biological Process_GO:0051270	9.158762281978726e-07	regulation of cellular component movement
+Biological Process_GO:0030097	9.157388432097666e-07	hemopoiesis
+Biological Process_GO:0006520	9.118756675041352e-07	cellular amino acid metabolic process
+Biological Process_GO:0007005	9.108118170710688e-07	mitochondrion organization
+Biological Process_GO:0036293	9.056341540970148e-07	response to decreased oxygen levels
+Biological Process_GO:0097485	9.022470422318404e-07	neuron projection guidance
+Biological Process_GO:0007411	9.021984114635752e-07	axon guidance
+Molecular Function_GO:0016836	9.002456817436672e-07	hydro-lyase activity
+Cellular Component_GO:0030659	8.998565692693846e-07	cytoplasmic vesicle membrane
+Molecular Function_GO:0008134	8.991094672341882e-07	transcription factor binding
+Biological Process_GO:0010942	8.971909028127159e-07	positive regulation of cell death
+Biological Process_GO:0035150	8.949244840660417e-07	regulation of tube size
+Biological Process_GO:0050880	8.947913076990407e-07	regulation of blood vessel size
+Biological Process_GO:0030855	8.945577733427481e-07	epithelial cell differentiation
+Biological Process_GO:0001666	8.94539958754707e-07	response to hypoxia
+Biological Process_GO:0044802	8.938549634139942e-07	single-organism membrane organization
+Biological Process_GO:0030534	8.936688810411173e-07	adult behavior
+Molecular Function_GO:0004672	8.930384420929946e-07	protein kinase activity
+Molecular Function_GO:1990837	8.91259692645074e-07	sequence-specific double-stranded DNA binding
+Biological Process_GO:0042060	8.888073952728993e-07	wound healing
+Biological Process_GO:0044087	8.846620092080285e-07	regulation of cellular component biogenesis
+Biological Process_GO:0050776	8.821117397368817e-07	regulation of immune response
+Biological Process_GO:0043604	8.793038627222617e-07	amide biosynthetic process
+Biological Process_GO:0001944	8.790820833296849e-07	vasculature development
+Biological Process_GO:0044419	8.775751830036665e-07	interspecies interaction between organisms
+Biological Process_GO:0044403	8.775751830036665e-07	symbiosis, encompassing mutualism through parasitism
+Molecular Function_GO:0000976	8.773541594992045e-07	transcription regulatory region sequence-specific DNA binding
+Biological Process_GO:0098656	8.735837775376567e-07	anion transmembrane transport
+Biological Process_GO:0043087	8.735105830530595e-07	regulation of GTPase activity
+Biological Process_GO:2000145	8.734790007996551e-07	regulation of cell motility
+Molecular Function_GO:0005230	8.690611282959586e-07	extracellular ligand-gated ion channel activity
+Biological Process_GO:1903827	8.666297189958205e-07	regulation of cellular protein localization
+Cellular Component_GO:0016324	8.636397864326567e-07	apical plasma membrane
+Biological Process_GO:1901137	8.629262293164104e-07	carbohydrate derivative biosynthetic process
+Biological Process_GO:0030334	8.613589002182711e-07	regulation of cell migration
+Biological Process_GO:0010038	8.607769412428557e-07	response to metal ion
+Biological Process_GO:0045596	8.58205653952333e-07	negative regulation of cell differentiation
+Biological Process_GO:0051276	8.576322973696832e-07	chromosome organization
+Molecular Function_GO:0004175	8.569670123185773e-07	endopeptidase activity
+Molecular Function_GO:0046982	8.560957712466533e-07	protein heterodimerization activity
+Biological Process_GO:0015701	8.556524205876921e-07	bicarbonate transport
+Biological Process_GO:1901565	8.513768117426767e-07	organonitrogen compound catabolic process
+Cellular Component_GO:0005774	8.422224888140563e-07	vacuolar membrane
+Biological Process_GO:0043068	8.410856411588519e-07	positive regulation of programmed cell death
+Cellular Component_GO:0099512	8.395533855467285e-07	supramolecular fiber
+Cellular Component_GO:0099513	8.395533855467285e-07	polymeric cytoskeletal fiber
+Biological Process_GO:0043065	8.393307735083974e-07	positive regulation of apoptotic process
+Molecular Function_GO:0001653	8.385900865788772e-07	peptide receptor activity
+Molecular Function_GO:0008528	8.382626644290468e-07	G-protein coupled peptide receptor activity
+Biological Process_GO:0007423	8.373818056844214e-07	sensory organ development
+Molecular Function_GO:0005198	8.368577025081962e-07	structural molecule activity
+Cellular Component_GO:0005635	8.335603283649057e-07	nuclear envelope
+Biological Process_GO:0043547	8.324879351637515e-07	positive regulation of GTPase activity
+Biological Process_GO:0001505	8.315110459785286e-07	regulation of neurotransmitter levels
+Biological Process_GO:0019221	8.313869914018386e-07	cytokine-mediated signaling pathway
+Biological Process_GO:0006813	8.309370004867575e-07	potassium ion transport
+Cellular Component_GO:0005765	8.308124179231474e-07	lysosomal membrane
+Cellular Component_GO:0098852	8.308124179231474e-07	lytic vacuole membrane
+Biological Process_GO:1901214	8.307001988613544e-07	regulation of neuron death
+Biological Process_GO:0009266	8.299133102339842e-07	response to temperature stimulus
+Molecular Function_GO:0004089	8.298011532414356e-07	carbonate dehydratase activity
+Biological Process_GO:0043410	8.28701483587248e-07	positive regulation of MAPK cascade
+Cellular Component_GO:0005759	8.283122061550653e-07	mitochondrial matrix
+Biological Process_GO:0009416	8.233208252477781e-07	response to light stimulus
+Cellular Component_GO:0019866	8.21134358077688e-07	organelle inner membrane
+Biological Process_GO:0007276	8.199352273002057e-07	gamete generation
+Molecular Function_GO:0019900	8.112069958973716e-07	kinase binding
+Biological Process_GO:0044764	8.024957962059969e-07	multi-organism cellular process
+Biological Process_GO:0051962	8.010851122303619e-07	positive regulation of nervous system development
+Biological Process_GO:0048511	7.954505200550071e-07	rhythmic process
+Biological Process_GO:0031344	7.939159197361862e-07	regulation of cell projection organization
+Biological Process_GO:0006730	7.922286672211683e-07	one-carbon metabolic process
+Biological Process_GO:0009410	7.900298790987189e-07	response to xenobiotic stimulus
+Molecular Function_GO:0001012	7.867162862710634e-07	RNA polymerase II regulatory region DNA binding
+Molecular Function_GO:0000977	7.860528823622554e-07	RNA polymerase II regulatory region sequence-specific DNA binding
+Biological Process_GO:0009057	7.850818716992395e-07	macromolecule catabolic process
+Biological Process_GO:0006816	7.835888384137133e-07	calcium ion transport
+Biological Process_GO:0045936	7.83485742847603e-07	negative regulation of phosphate metabolic process
+Biological Process_GO:0010563	7.83485742847603e-07	negative regulation of phosphorus metabolic process
+Biological Process_GO:0071466	7.785109198179325e-07	cellular response to xenobiotic stimulus
+Biological Process_GO:0006805	7.776734375063552e-07	xenobiotic metabolic process
+Cellular Component_GO:0098552	7.767819704632547e-07	side of membrane
+Biological Process_GO:0044283	7.761203113876761e-07	small molecule biosynthetic process
+Biological Process_GO:0010720	7.735803550749438e-07	positive regulation of cell development
+Biological Process_GO:0033674	7.732480603944587e-07	positive regulation of kinase activity
+Biological Process_GO:0032886	7.712065789701478e-07	regulation of microtubule-based process
+Biological Process_GO:0016032	7.690713589491821e-07	viral process
+Biological Process_GO:0061061	7.689682097067912e-07	muscle structure development
+Biological Process_GO:0001508	7.681934917798163e-07	action potential
+Molecular Function_GO:0015291	7.676069346298922e-07	secondary active transmembrane transporter activity
+Biological Process_GO:0050795	7.672741218910044e-07	regulation of behavior
+Biological Process_GO:0007193	7.646633015871908e-07	adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway
+Biological Process_GO:0051260	7.634683724075051e-07	protein homooligomerization
+Biological Process_GO:0045860	7.624667736949246e-07	positive regulation of protein kinase activity
+Molecular Function_GO:0008227	7.601182752086091e-07	G-protein coupled amine receptor activity
+Molecular Function_GO:0015081	7.598576381671333e-07	sodium ion transmembrane transporter activity
+Biological Process_GO:0001775	7.588446604013394e-07	cell activation
+Molecular Function_GO:0016887	7.561466325452601e-07	ATPase activity
+Cellular Component_GO:0005815	7.489149700982368e-07	microtubule organizing center
+Biological Process_GO:0007218	7.48699260317682e-07	neuropeptide signaling pathway
+Biological Process_GO:0044236	7.47492394148189e-07	multicellular organismal metabolic process
+Biological Process_GO:0001568	7.471234335828298e-07	blood vessel development
+Cellular Component_GO:0005911	7.471223799155515e-07	cell-cell junction
+Biological Process_GO:0071900	7.449623148601704e-07	regulation of protein serine/threonine kinase activity
+Biological Process_GO:0046883	7.430935081904233e-07	regulation of hormone secretion
+Biological Process_GO:0043523	7.421533893414275e-07	regulation of neuron apoptotic process
+Biological Process_GO:0006091	7.418064572978454e-07	generation of precursor metabolites and energy
+Biological Process_GO:0050708	7.417568985445907e-07	regulation of protein secretion
+Biological Process_GO:0007568	7.408534354409068e-07	aging
+Biological Process_GO:0032386	7.38491316324532e-07	regulation of intracellular transport
+Cellular Component_GO:0005694	7.364213372713341e-07	chromosome
+Biological Process_GO:0006325	7.350910744234852e-07	chromatin organization
+Biological Process_GO:0006643	7.323689296527399e-07	membrane lipid metabolic process
+Biological Process_GO:0044259	7.284421880026797e-07	multicellular organismal macromolecule metabolic process
+Biological Process_GO:0006974	7.268622331848166e-07	cellular response to DNA damage stimulus
+Biological Process_GO:0051129	7.261371304611981e-07	negative regulation of cellular component organization
+Cellular Component_GO:0043195	7.254252948800205e-07	terminal bouton
+Cellular Component_GO:1990904	7.242971504570943e-07	ribonucleoprotein complex
+Cellular Component_GO:0030529	7.242971504570943e-07	intracellular ribonucleoprotein complex
+Biological Process_GO:0006979	7.240688567178778e-07	response to oxidative stress
+Biological Process_GO:0055086	7.239154201289689e-07	nucleobase-containing small molecule metabolic process
+Biological Process_GO:0006836	7.200902727189724e-07	neurotransmitter transport
+Biological Process_GO:0051047	7.196809516383952e-07	positive regulation of secretion
+Biological Process_GO:0030155	7.18770845610635e-07	regulation of cell adhesion
+Molecular Function_GO:0004674	7.145688303066384e-07	protein serine/threonine kinase activity
+Molecular Function_GO:0015079	7.138592402584942e-07	potassium ion transmembrane transporter activity
+Biological Process_GO:0071804	7.132100926912942e-07	cellular potassium ion transport
+Biological Process_GO:0071805	7.132100926912942e-07	potassium ion transmembrane transport
+Biological Process_GO:0007599	7.109012542010824e-07	hemostasis
+Biological Process_GO:1902532	7.107155379792051e-07	negative regulation of intracellular signal transduction
+Biological Process_GO:0032963	7.104189580382228e-07	collagen metabolic process
+Biological Process_GO:0048729	7.099356529473761e-07	tissue morphogenesis
+Biological Process_GO:0006259	7.091130615706932e-07	DNA metabolic process
+Biological Process_GO:0050817	7.088737668762962e-07	coagulation
+Biological Process_GO:0007596	7.087845531910345e-07	blood coagulation
+Biological Process_GO:0048232	7.082385346477424e-07	male gamete generation
+Biological Process_GO:0007283	7.080565569145703e-07	spermatogenesis
+Biological Process_GO:0050803	7.042494623222544e-07	regulation of synapse structure or activity
+Molecular Function_GO:0046906	7.038786753890289e-07	tetrapyrrole binding
+Biological Process_GO:0050769	7.035879312586275e-07	positive regulation of neurogenesis
+Biological Process_GO:0008016	7.028772376749772e-07	regulation of heart contraction
+Biological Process_GO:0035295	7.008353106748603e-07	tube development
+Molecular Function_GO:0003682	6.997690144001447e-07	chromatin binding
+Cellular Component_GO:0060076	6.996206870943015e-07	excitatory synapse
+Biological Process_GO:0042063	6.992993397959451e-07	gliogenesis
+Molecular Function_GO:0019901	6.976990114845658e-07	protein kinase binding
+Biological Process_GO:0048598	6.971919543810418e-07	embryonic morphogenesis
+Molecular Function_GO:0005506	6.960610045759085e-07	iron ion binding
+Biological Process_GO:2000269	6.957761293534271e-07	regulation of fibroblast apoptotic process
+Cellular Component_GO:0005743	6.945191367738984e-07	mitochondrial inner membrane
+Biological Process_GO:0019226	6.937121763150476e-07	transmission of nerve impulse
+Biological Process_GO:0051899	6.932751572321546e-07	membrane depolarization
+Biological Process_GO:0010975	6.926641859997599e-07	regulation of neuron projection development
+Biological Process_GO:0051186	6.924765903178716e-07	cofactor metabolic process
+Biological Process_GO:0021537	6.912098140244117e-07	telencephalon development
+Biological Process_GO:0032844	6.899196197587603e-07	regulation of homeostatic process
+Biological Process_GO:0044070	6.862914541951379e-07	regulation of anion transport
+Biological Process_GO:0002237	6.85384897226284e-07	response to molecule of bacterial origin
+Biological Process_GO:0032496	6.835549422812257e-07	response to lipopolysaccharide
+Biological Process_GO:0006814	6.823886234427017e-07	sodium ion transport
+Biological Process_GO:0051051	6.803792118579803e-07	negative regulation of transport
+Molecular Function_GO:0033218	6.767392277912091e-07	amide binding
+Biological Process_GO:0021953	6.748168047823656e-07	central nervous system neuron differentiation
+Biological Process_GO:0015849	6.733822266088652e-07	organic acid transport
+Biological Process_GO:0046942	6.730090041702545e-07	carboxylic acid transport
+Molecular Function_GO:0020037	6.721371957706302e-07	heme binding
+Biological Process_GO:0007204	6.713092732724087e-07	positive regulation of cytosolic calcium ion concentration
+Biological Process_GO:0001101	6.708716204720263e-07	response to acid chemical
+Biological Process_GO:0040007	6.705215160069279e-07	growth
+Biological Process_GO:0048514	6.682001832848412e-07	blood vessel morphogenesis
+Biological Process_GO:0001817	6.680269892822624e-07	regulation of cytokine production
+Molecular Function_GO:0016705	6.669904900567823e-07	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen
+Biological Process_GO:0006140	6.658553385391426e-07	regulation of nucleotide metabolic process
+Cellular Component_GO:1990234	6.651223595973696e-07	transferase complex
+Biological Process_GO:0043043	6.633744407825635e-07	peptide biosynthetic process
+Biological Process_GO:0090407	6.630377554326661e-07	organophosphate biosynthetic process
+Cellular Component_GO:0005819	6.622164272318986e-07	spindle
+Cellular Component_GO:0098857	6.620656623928831e-07	membrane microdomain
+Biological Process_GO:0007584	6.604547482556001e-07	response to nutrient
+Cellular Component_GO:0030055	6.578693576722597e-07	cell-substrate junction
+Biological Process_GO:0043405	6.559666657947051e-07	regulation of MAP kinase activity
+Molecular Function_GO:0042277	6.55792784937641e-07	peptide binding
+Biological Process_GO:0050808	6.553720171918979e-07	synapse organization
+Molecular Function_GO:0005516	6.548999865719522e-07	calmodulin binding
+Molecular Function_GO:0005267	6.536981461079837e-07	potassium channel activity
+Biological Process_GO:0043279	6.526718161990536e-07	response to alkaloid
+Molecular Function_GO:0008289	6.487364914892164e-07	lipid binding
+Biological Process_GO:0009894	6.47467188162306e-07	regulation of catabolic process
+Biological Process_GO:0009612	6.465560301227071e-07	response to mechanical stimulus
+Cellular Component_GO:0010008	6.464880146577363e-07	endosome membrane
+Molecular Function_GO:0048037	6.458678617220525e-07	cofactor binding
+Cellular Component_GO:0005924	6.436373231810929e-07	cell-substrate adherens junction
+Cellular Component_GO:0005925	6.426022210205397e-07	focal adhesion
+Biological Process_GO:0031960	6.41805634586043e-07	response to corticosteroid
+Molecular Function_GO:0005249	6.410127391156308e-07	voltage-gated potassium channel activity
+Cellular Component_GO:0030141	6.405404706945623e-07	secretory granule
+Biological Process_GO:0007215	6.398984021934746e-07	glutamate receptor signaling pathway
+Biological Process_GO:0008366	6.397165166716505e-07	axon ensheathment
+Biological Process_GO:0007272	6.397165166716505e-07	ensheathment of neurons
+Biological Process_GO:0097190	6.394618377191106e-07	apoptotic signaling pathway
+Cellular Component_GO:0014069	6.391867114468877e-07	postsynaptic density
+Cellular Component_GO:0099572	6.391867114468877e-07	postsynaptic specialization
+Biological Process_GO:0015980	6.389590522986063e-07	energy derivation by oxidation of organic compounds
+Cellular Component_GO:0031225	6.387570945993831e-07	anchored component of membrane
+Biological Process_GO:1904951	6.385184353781447e-07	positive regulation of establishment of protein localization
+Biological Process_GO:0042552	6.375973356420351e-07	myelination
+Biological Process_GO:0071396	6.371137420898878e-07	cellular response to lipid
+Biological Process_GO:0006412	6.332087442628768e-07	translation
+Cellular Component_GO:0031253	6.32825725067172e-07	cell projection membrane
+Biological Process_GO:0006886	6.313504605363363e-07	intracellular protein transport
+Biological Process_GO:0050806	6.311148370916616e-07	positive regulation of synaptic transmission
+Biological Process_GO:0051606	6.291014490543328e-07	detection of stimulus
+Biological Process_GO:1903532	6.256104529264317e-07	positive regulation of secretion by cell
+Molecular Function_GO:0042578	6.244581057989774e-07	phosphoric ester hydrolase activity
+Biological Process_GO:0005996	6.233410375836032e-07	monosaccharide metabolic process
+Biological Process_GO:0010959	6.232921739748682e-07	regulation of metal ion transport
+Molecular Function_GO:0001159	6.217488627652248e-07	core promoter proximal region DNA binding
+Molecular Function_GO:0000987	6.215408872347322e-07	core promoter proximal region sequence-specific DNA binding
+Biological Process_GO:0007389	6.213248738875514e-07	pattern specification process
+Molecular Function_GO:0004497	6.198717149374135e-07	monooxygenase activity
+Biological Process_GO:0006914	6.173340708101951e-07	autophagy
+Biological Process_GO:1903509	6.171158162818858e-07	liposaccharide metabolic process
+Biological Process_GO:0022604	6.168451597722734e-07	regulation of cell morphogenesis
+Biological Process_GO:0006066	6.164023405345174e-07	alcohol metabolic process
+Biological Process_GO:0043687	6.163055314929383e-07	post-translational protein modification
