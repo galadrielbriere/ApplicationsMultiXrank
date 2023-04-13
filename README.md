@@ -14,7 +14,7 @@ Visualize top 20 proritized genes and drugs in Cytoscape with file: [Leukemia/mu
 
 Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_net/web_session](Leukemia/multiXrank_results/cytoscape_net/web_session/)
 
-## Node prioritization in Epilepsy using the Hetionet framework
+## Node prioritization in Epilepsy and Nicotine Dependence using the Hetionet framework
 
 ### Learn more about Hetionet 
 
@@ -25,12 +25,23 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 ### Run MultiXrank using the following command line:
 
 #### Build Hetionet network
-```python ~/ApplicationsMultiXrank/Epilepsy/HetionetDB_to_MultiXrankDB/hetionet_to_multixrank.py``` 
+```python ~/ApplicationsMultiXrank/Hetionet/HetionetDB_to_MultiXrankDB/hetionet_to_multixrank.py``` 
 
 #### Run MultiXrank
-```python ~/ApplicationsMultiXrank/Epilepsy/script_bash.py``` 
+##### Epilepsy
+```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/script_bash.py``` 
+
+##### Nicotine Dependence
+```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/script_bash.py``` 
+
 
 #### Run downstream analysis of MultiXrank scores
-```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/give_name.py``` 
-```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/check_results.py``` 
-```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/code_pie_tot.py``` 
+##### Epilepsy
+```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/give_name.py``` 
+
+```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/check_results.py```
+
+```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/code_pie_tot.py``` 
+
+##### Nicotine Dependence
+```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/downstream_analysis/give_name.py``` 
