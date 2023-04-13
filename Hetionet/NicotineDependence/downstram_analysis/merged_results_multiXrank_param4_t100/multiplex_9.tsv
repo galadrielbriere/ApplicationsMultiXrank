@@ -1,0 +1,100 @@
+Biological Process_GO:0055114	3.1842678018984e-06	oxidation-reduction process
+Cellular Component_GO:0005730	2.8807444207423206e-06	nucleolus
+Molecular Function_GO:0016491	2.784850055043509e-06	oxidoreductase activity
+Cellular Component_GO:0042175	2.06397935197551e-06	nuclear outer membrane-endoplasmic reticulum membrane network
+Cellular Component_GO:0005789	2.051200063928145e-06	endoplasmic reticulum membrane
+Molecular Function_GO:0030246	2.010937042119803e-06	carbohydrate binding
+Cellular Component_GO:0005815	1.909644250251078e-06	microtubule organizing center
+Biological Process_GO:0070647	1.767706138861263e-06	protein modification by small protein conjugation or removal
+Cellular Component_GO:0005813	1.7412123303699762e-06	centrosome
+Molecular Function_GO:0004930	1.682749493292598e-06	G-protein coupled receptor activity
+Biological Process_GO:0032446	1.6452991623012342e-06	protein modification by small protein conjugation
+Cellular Component_GO:0005740	1.6345245669303765e-06	mitochondrial envelope
+Biological Process_GO:0019752	1.6223498267781175e-06	carboxylic acid metabolic process
+Cellular Component_GO:0031966	1.6069120109825565e-06	mitochondrial membrane
+Cellular Component_GO:0005635	1.550988070983266e-06	nuclear envelope
+Biological Process_GO:0044255	1.529972526831331e-06	cellular lipid metabolic process
+Biological Process_GO:0016567	1.4993009572843405e-06	protein ubiquitination
+Biological Process_GO:0051259	1.4874395972694762e-06	protein oligomerization
+Biological Process_GO:0005975	1.4523734968567176e-06	carbohydrate metabolic process
+Biological Process_GO:0008283	1.4167079566823185e-06	cell proliferation
+Cellular Component_GO:0005581	1.4062654422063696e-06	collagen trimer
+Cellular Component_GO:0031965	1.3894317830299528e-06	nuclear membrane
+Cellular Component_GO:0098590	1.3456256521405649e-06	plasma membrane region
+Biological Process_GO:0044712	1.3184333940797843e-06	single-organism catabolic process
+Cellular Component_GO:0099513	1.3163616380745497e-06	polymeric cytoskeletal fiber
+Cellular Component_GO:0099512	1.3163616380745497e-06	supramolecular fiber
+Biological Process_GO:0006897	1.2641506486380384e-06	endocytosis
+Molecular Function_GO:0022857	1.2596763454080097e-06	transmembrane transporter activity
+Molecular Function_GO:0016772	1.2311104515949497e-06	transferase activity, transferring phosphorus-containing groups
+Biological Process_GO:0007267	1.2091478308346051e-06	cell-cell signaling
+Cellular Component_GO:0005929	1.2088574968486213e-06	cilium
+Biological Process_GO:0051260	1.1972886799934037e-06	protein homooligomerization
+Molecular Function_GO:0008092	1.1855556452601768e-06	cytoskeletal protein binding
+Biological Process_GO:0051276	1.1740210115351003e-06	chromosome organization
+Cellular Component_GO:0031225	1.1726359554569951e-06	anchored component of membrane
+Molecular Function_GO:0046982	1.152350924735224e-06	protein heterodimerization activity
+Biological Process_GO:0040008	1.1316060279103017e-06	regulation of growth
+Cellular Component_GO:0005768	1.118226342995367e-06	endosome
+Biological Process_GO:0032787	1.115947179814638e-06	monocarboxylic acid metabolic process
+Biological Process_GO:0000278	1.1136879017508124e-06	mitotic cell cycle
+Molecular Function_GO:0022891	1.0974592112176617e-06	substrate-specific transmembrane transporter activity
+Cellular Component_GO:0045202	1.0782858972684731e-06	synapse
+Biological Process_GO:0007010	1.0732592116445996e-06	cytoskeleton organization
+Molecular Function_GO:0016788	1.0525368738845816e-06	hydrolase activity, acting on ester bonds
+Biological Process_GO:0034220	1.049180113103209e-06	ion transmembrane transport
+Molecular Function_GO:0008233	1.0225494836827056e-06	peptidase activity
+Biological Process_GO:0006396	1.0172437331497244e-06	RNA processing
+Biological Process_GO:1901137	1.0162765682031272e-06	carbohydrate derivative biosynthetic process
+Molecular Function_GO:0008289	1.0097246320988767e-06	lipid binding
+Molecular Function_GO:0005509	1.0093472952482911e-06	calcium ion binding
+Molecular Function_GO:0015075	1.0040949363154248e-06	ion transmembrane transporter activity
+Cellular Component_GO:0000139	1.0020004426143424e-06	Golgi membrane
+Molecular Function_GO:0016817	9.978501969620096e-07	hydrolase activity, acting on acid anhydrides
+Molecular Function_GO:0016818	9.977335000835862e-07	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+Molecular Function_GO:0016462	9.945692199610362e-07	pyrophosphatase activity
+Biological Process_GO:0008037	9.802613573142993e-07	cell recognition
+Cellular Component_GO:0098796	9.716664281904697e-07	membrane protein complex
+Biological Process_GO:0006812	9.71402356799249e-07	cation transport
+Biological Process_GO:0006325	9.689981313265245e-07	chromatin organization
+Molecular Function_GO:0032403	9.598743105377589e-07	protein complex binding
+Molecular Function_GO:0070011	9.56766014721419e-07	peptidase activity, acting on L-amino acid peptides
+Cellular Component_GO:1990234	9.56706128879562e-07	transferase complex
+Biological Process_GO:1903047	9.517581755393708e-07	mitotic cell cycle process
+Biological Process_GO:0019637	9.334350832298926e-07	organophosphate metabolic process
+Cellular Component_GO:0048471	9.321205578288848e-07	perinuclear region of cytoplasm
+Molecular Function_GO:0016301	9.228665990817006e-07	kinase activity
+Cellular Component_GO:0031012	9.176278507099696e-07	extracellular matrix
+Biological Process_GO:0009410	9.162105409201094e-07	response to xenobiotic stimulus
+Biological Process_GO:0071466	9.154964375424412e-07	cellular response to xenobiotic stimulus
+Cellular Component_GO:0005874	9.152923925738364e-07	microtubule
+Biological Process_GO:0006805	9.12340673976902e-07	xenobiotic metabolic process
+Biological Process_GO:0006468	9.098327732619428e-07	protein phosphorylation
+Biological Process_GO:0043603	8.984646395737034e-07	cellular amide metabolic process
+Biological Process_GO:0006366	8.966446987998112e-07	transcription from RNA polymerase II promoter
+Molecular Function_GO:0001067	8.951308378386713e-07	regulatory region nucleic acid binding
+Molecular Function_GO:0000975	8.947842375957796e-07	regulatory region DNA binding
+Molecular Function_GO:0044212	8.909543064353105e-07	transcription regulatory region DNA binding
+Biological Process_GO:0007268	8.770113422537436e-07	synaptic transmission
+Biological Process_GO:0099536	8.770113422537436e-07	synaptic signaling
+Biological Process_GO:0099537	8.770113422537436e-07	trans-synaptic signaling
+Cellular Component_GO:0019866	8.737434310261301e-07	organelle inner membrane
+Biological Process_GO:0061024	8.653744577706599e-07	membrane organization
+Biological Process_GO:0043086	8.62818165206603e-07	negative regulation of catalytic activity
+Biological Process_GO:0043087	8.601434952591156e-07	regulation of GTPase activity
+Molecular Function_GO:0030234	8.599108508293187e-07	enzyme regulator activity
+Biological Process_GO:0044723	8.57948255499772e-07	single-organism carbohydrate metabolic process
+Biological Process_GO:0009607	8.558039141808277e-07	response to biotic stimulus
+Cellular Component_GO:0005694	8.545180598383087e-07	chromosome
+Biological Process_GO:1902533	8.517922379811794e-07	positive regulation of intracellular signal transduction
+Cellular Component_GO:0005578	8.464826577430905e-07	proteinaceous extracellular matrix
+Biological Process_GO:0014070	8.414552030046753e-07	response to organic cyclic compound
+Cellular Component_GO:0015629	8.358910503602625e-07	actin cytoskeleton
+Biological Process_GO:0008284	8.333932728456897e-07	positive regulation of cell proliferation
+Molecular Function_GO:0016773	8.322479432821707e-07	phosphotransferase activity, alcohol group as acceptor
+Molecular Function_GO:0000981	8.302961318878199e-07	RNA polymerase II transcription factor activity, sequence-specific DNA binding
+Biological Process_GO:0010035	8.280253162946121e-07	response to inorganic substance
+Biological Process_GO:0051707	8.195145013049556e-07	response to other organism
+Biological Process_GO:0043207	8.195145013049556e-07	response to external biotic stimulus
+Biological Process_GO:0051345	8.185680153553144e-07	positive regulation of hydrolase activity
+Biological Process_GO:1901615	8.183865415342391e-07	organic hydroxy compound metabolic process

@@ -1,0 +1,438 @@
+Symptom_D011595	0.0022139771582881	Psychomotor Agitation
+Symptom_D012893	0.0020547438414409	Sleep Disorders
+Symptom_D007319	0.0020486580856457	Sleep Initiation and Maintenance Disorders
+Symptom_D001835	0.0020000878864378	Body Weight
+Symptom_D000550	0.0019962355755319	Amblyopia
+Symptom_D015430	0.0019708506145304	Weight Gain
+Symptom_D059350	0.0019677141460694	Chronic Pain
+Symptom_D017288	0.0019665301884147	Pain Threshold
+Symptom_D059445	0.0019648765880524	Anhedonia
+Symptom_D006930	0.0019645851778892	Hyperalgesia
+Symptom_D005311	0.0019640988343304	Fetal Hypoxia
+Symptom_D020250	0.00196195289346	Postoperative Nausea and Vomiting
+Symptom_D008607	0.0002880766461251	Intellectual Disability
+Symptom_D007859	0.0002875347802658	Learning Disorders
+Symptom_D006948	0.0002504146513935	Hyperkinesis
+Symptom_D003147	0.0002440421855741	Communication Disorders
+Symptom_D004410	0.0002434501570139	Dyslexia
+Symptom_D007805	0.0002425667052676	Language Development Disorders
+Symptom_D011596	8.800563125502657e-05	Psychomotor Disorders
+Symptom_D002032	8.430682612290305e-05	Bulimia
+Symptom_D008569	8.258373997688399e-05	Memory Disorders
+Symptom_D001308	8.086347923573088e-05	Auditory Perceptual Disorders
+Symptom_D000381	7.536045519570101e-05	Agraphia
+Symptom_D017109	5.52211150321268e-05	Akathisia, Drug-Induced
+Symptom_D013064	5.162639562918929e-05	Speech Disorders
+Symptom_D006970	4.935218976177664e-05	Disorders of Excessive Somnolence
+Symptom_D011602	4.891315159838309e-05	Psychophysiologic Disorders
+Symptom_D007806	4.804878539515571e-05	Language Disorders
+Symptom_D010468	4.760720140400877e-05	Perceptual Disorders
+Symptom_D020178	4.6939744773723385e-05	Sleep Disorders, Circadian Rhythm
+Symptom_D013342	4.5411900666585166e-05	Stuttering
+Symptom_D006212	4.499428643471823e-05	Hallucinations
+Symptom_D012678	4.488621439059397e-05	Sensation Disorders
+Symptom_D012891	4.443652194042602e-05	Sleep Apnea Syndromes
+Symptom_D020323	4.388528070903169e-05	Tics
+Symptom_D001072	4.341087016879943e-05	Apraxias
+Symptom_D020189	4.332437302725245e-05	Nocturnal Myoclonus Syndrome
+Symptom_D012913	4.330489458959495e-05	Snoring
+Symptom_D018980	4.3081419971028585e-05	Williams Syndrome
+Symptom_D012148	4.296042794949025e-05	Restless Legs Syndrome
+Symptom_D003221	4.254917731037796e-05	Confusion
+Symptom_D005600	4.243077566560768e-05	Fragile X Syndrome
+Symptom_D004688	4.243077566560768e-05	Encopresis
+Symptom_D001247	4.193326135862745e-05	Asthenia
+Symptom_D007088	4.181657607507542e-05	Illusions
+Symptom_D003693	4.1758404046874215e-05	Delirium
+Symptom_D001184	4.122337019158723e-05	Articulation Disorders
+Symptom_D006315	4.049716682109739e-05	Hearing Loss, Functional
+Symptom_D014839	4.032415269533854e-05	Vomiting
+Symptom_D002524	3.966178315275312e-05	Cerebellar Ataxia
+Symptom_D003117	3.861332470455348e-05	Color Vision Defects
+Symptom_D003128	3.847241553885553e-05	Coma
+Symptom_D007565	3.844752276191204e-05	Jaundice
+Symptom_D014202	3.8370453615246114e-05	Tremor
+Symptom_D001259	3.8325011444090646e-05	Ataxia
+Symptom_D000647	3.787739653342293e-05	Amnesia
+Symptom_D000472	3.7493411337090056e-05	Alkalosis, Respiratory
+Symptom_D006963	3.730610834801713e-05	Hyperphagia
+Symptom_D009461	3.6814159623637045e-05	Neurologic Manifestations
+Symptom_D007035	3.636685747267617e-05	Hypothermia
+Symptom_D005483	3.609193780343463e-05	Flushing
+Symptom_D009133	3.608094346283724e-05	Muscular Atrophy
+Symptom_D011782	3.560504084636178e-05	Quadriplegia
+Symptom_D003244	3.5160124500192554e-05	Consciousness Disorders
+Symptom_D014474	3.505092136543443e-05	Unconsciousness
+Symptom_D020234	3.4955845986398495e-05	Gait Ataxia
+Symptom_D019588	3.495490293706846e-05	Aging, Premature
+Symptom_D000425	3.462916999630007e-05	Alcohol Amnestic Disorder
+Symptom_D006941	3.45781945462461e-05	Hyperesthesia
+Symptom_D005262	3.453867063017406e-05	Feminization
+Symptom_D020270	3.4466162464646206e-05	Alcohol Withdrawal Seizures
+Symptom_D020915	3.441997067359286e-05	Korsakoff Syndrome
+Symptom_D004421	1.0985700783667245e-05	Dystonia
+Symptom_D004409	1.056752052034886e-05	Dyskinesia, Drug-Induced
+Symptom_D007926	9.554583426712571e-06	Lesch-Nyhan Syndrome
+Symptom_D010146	9.417186908378138e-06	Pain
+Symptom_D012892	9.048264466825593e-06	Sleep Deprivation
+Symptom_D002389	8.830649425807507e-06	Catatonia
+Symptom_D020886	8.383735324034265e-06	Somatosensory Disorders
+Symptom_D002819	8.080051542005792e-06	Chorea
+Symptom_D006816	7.796226981739612e-06	Huntington Disease
+Symptom_D062706	7.645054284339895e-06	Prodromal Symptoms
+Symptom_D004487	7.335480244677292e-06	Edema
+Symptom_D004415	7.277200582020122e-06	Dyspepsia
+Symptom_D003248	7.0913216326852224e-06	Constipation
+Symptom_D010292	7.00324774470355e-06	Paresthesia
+Symptom_D009325	6.599970230044738e-06	Nausea
+Symptom_D009207	6.417039128247833e-06	Myoclonus
+Symptom_D004244	6.304060079164463e-06	Dizziness
+Symptom_D010148	6.204875221977109e-06	Pain, Intractable
+Symptom_D053608	6.127766321693471e-06	Stupor
+Symptom_D001037	5.889678096457e-06	Aphasia
+Symptom_D015746	5.845381089473685e-06	Abdominal Pain
+Symptom_D001416	5.845251192617382e-06	Back Pain
+Symptom_D010149	5.825060044078496e-06	Pain, Postoperative
+Symptom_D003967	5.773637815363105e-06	Diarrhea
+Symptom_D015518	5.7485063686150166e-06	Rett Syndrome
+Symptom_D004454	5.704830742702728e-06	Echolalia
+Symptom_D005221	5.650826330667413e-06	Fatigue
+Symptom_D011141	5.281996129944356e-06	Polyuria
+Symptom_D002375	5.131879019242176e-06	Catalepsy
+Symptom_D005183	5.102101975735676e-06	Failure to Thrive
+Symptom_D014103	4.952552613634138e-06	Torticollis
+Symptom_D010291	4.952114361113984e-06	Paresis
+Symptom_D000006	4.850554069437656e-06	Abdomen, Acute
+Symptom_D012021	4.839229025067654e-06	Reflex, Abnormal
+Symptom_D004314	4.836424282869502e-06	Down Syndrome
+Symptom_D017116	4.832620982600658e-06	Low Back Pain
+Symptom_D020181	4.789013006295353e-06	Sleep Apnea, Obstructive
+Symptom_D005334	4.3819753323541525e-06	Fever
+Symptom_D002637	4.284152166171359e-06	Chest Pain
+Symptom_D004417	4.264115128404507e-06	Dyspnea
+Symptom_D054058	4.218541275198723e-06	Acute Coronary Syndrome
+Symptom_D006942	4.130576377549927e-06	Hypergammaglobulinemia
+Symptom_D006261	4.082165609065198e-06	Headache
+Symptom_D003085	3.927636795912779e-06	Colic
+Symptom_D001724	3.827841489104983e-06	Birth Weight
+Symptom_D013009	3.7245318074889662e-06	Somnambulism
+Symptom_D017593	3.722104048648445e-06	Kleine-Levin Syndrome
+Symptom_D011695	3.658523889115438e-06	Purpura, Schoenlein-Henoch
+Symptom_D019954	3.624292792359617e-06	Neurobehavioral Manifestations
+Symptom_D006311	3.591775085184772e-06	Hearing Disorders
+Symptom_D006985	3.5741830243765623e-06	Hyperventilation
+Symptom_D000377	3.5490671516773663e-06	Agnosia
+Symptom_D003638	3.530107808949756e-06	Deafness
+Symptom_D000334	3.5194607703133324e-06	Aerophagy
+Symptom_D014717	3.4766058204398166e-06	Vertigo
+Symptom_D017699	3.4664588301544477e-06	Pelvic Pain
+Symptom_D012166	3.457267693951148e-06	Retinal Hemorrhage
+Symptom_D020238	3.4501038764567946e-06	Prosopagnosia
+Symptom_D007024	3.4437418528790016e-06	Hypotension, Orthostatic
+Symptom_D000326	3.4335131508931097e-06	Adrenoleukodystrophy
+Symptom_D020078	3.392877768670512e-06	Neurogenic Inflammation
+Symptom_D050177	3.3918607500326872e-06	Overweight
+Symptom_D014012	3.240015566044918e-06	Tinnitus
+Symptom_D041781	3.2241998048886995e-06	Jaundice, Obstructive
+Symptom_D000648	3.2146028342323204e-06	Amnesia, Retrograde
+Symptom_D005222	3.1962340809632983e-06	Mental Fatigue
+Symptom_D006935	3.1717718926713854e-06	Hypercapnia
+Symptom_D009903	3.150690438463676e-06	Optical Illusions
+Symptom_D009123	3.150102229727998e-06	Muscle Hypotonia
+Symptom_D000860	3.1340099193667776e-06	Anoxia
+Symptom_D009155	3.0635392098641623e-06	Mutism
+Symptom_D018771	2.987219528222727e-06	Arthralgia
+Symptom_D003635	2.960604044843321e-06	De Lange Syndrome
+Symptom_D006319	2.9433808177854755e-06	Hearing Loss, Sensorineural
+Symptom_D020754	2.938997338577678e-06	Spinocerebellar Ataxias
+Symptom_D018458	2.9326148824610604e-06	Persistent Vegetative State
+Symptom_D009120	2.928793193138398e-06	Muscle Cramp
+Symptom_D020188	2.92049814513213e-06	Sleep Paralysis
+Symptom_D013746	2.917062202844449e-06	Tetany
+Symptom_D016857	2.8795096447377377e-06	Hypocapnia
+Symptom_D010591	2.841099163810701e-06	Phantom Limb
+Symptom_D009041	2.7588360325603394e-06	Motion Sickness
+Symptom_D019547	2.7586006069244217e-06	Neck Pain
+Symptom_D006396	2.754406252224021e-06	Hematemesis
+Symptom_D011304	2.748070137392721e-06	Presbycusis
+Symptom_D005926	2.7439266868669976e-06	Glossalgia
+Symptom_D005132	2.7306811142900493e-06	Eye Manifestations
+Symptom_D020184	2.720642938782261e-06	Night Terrors
+Symptom_D020187	2.7189891709544893e-06	REM Sleep Behavior Disorder
+Symptom_D005335	2.6150955625395854e-06	Fever of Unknown Origin
+Symptom_D004438	2.6060760098233707e-06	Ecchymosis
+Symptom_D048949	2.6055174793948896e-06	Labor Pain
+Symptom_D020186	2.6055174793948896e-06	Sleep Bruxism
+Symptom_D038901	2.5794575662273865e-06	Mental Retardation, X-Linked
+Symptom_D020447	2.571167748615446e-06	Parasomnias
+Symptom_D008065	2.556553067369957e-06	Lipoid Proteinosis of Urbach and Wiethe
+Symptom_D011507	2.550567928876476e-06	Proteinuria
+Symptom_D020920	2.4682303928241517e-06	Dyssomnias
+Symptom_D018908	2.3837272013226315e-06	Muscle Weakness
+Symptom_D017827	2.35504409319232e-06	Machado-Joseph Disease
+Symptom_D000855	2.3490476528753915e-06	Anorexia
+Symptom_D002100	2.331840166627394e-06	Cachexia
+Symptom_D011537	2.324139417712345e-06	Pruritus
+Symptom_D010243	2.314108146273994e-06	Paralysis
+Symptom_D012001	2.301630678196708e-06	Hyperacusis
+Symptom_D011697	2.2899268794395712e-06	Purpura, Thrombotic Thrombocytopenic
+Symptom_D016553	2.264050627728046e-06	Purpura, Thrombocytopenic, Idiopathic
+Symptom_D012585	2.2613056256275843e-06	Sciatica
+Symptom_D012877	2.2472392573212854e-06	Skin Manifestations
+Symptom_D020922	2.245415764631351e-06	Sleep-Wake Transition Disorders
+Symptom_D020183	2.207222670853274e-06	Nocturnal Paroxysmal Dystonia
+Symptom_D011693	2.1783615143375385e-06	Purpura
+Symptom_D056128	2.170838922817236e-06	Obesity, Abdominal
+Symptom_D003410	2.1372209084282227e-06	Cri-du-Chat Syndrome
+Symptom_D000857	2.132934987261448e-06	Olfaction Disorders
+Symptom_D000419	2.0828927946014598e-06	Albuminuria
+Symptom_D009437	2.0792554660408195e-06	Neuralgia
+Symptom_D001766	2.0694386968853847e-06	Blindness
+Symptom_D005157	2.003042863584499e-06	Facial Pain
+Symptom_D059265	1.9359727756112853e-06	Visceral Pain
+Symptom_D014786	1.911428416919917e-06	Vision Disorders
+Symptom_D015431	1.884058078447088e-06	Weight Loss
+Symptom_D011696	1.7575957981068743e-06	Purpura, Thrombocytopenic
+Symptom_D001750	1.741564716504148e-06	Urinary Bladder, Neurogenic
+Symptom_D009765	1.633953825388588e-06	Obesity
+Symptom_D051346	1.59347856382616e-06	Mobility Limitation
+Symptom_D009912	1.5853204275101385e-06	Oral Manifestations
+Symptom_D006987	1.5811837518951756e-06	Hypesthesia
+Symptom_D020233	1.5622609304820486e-06	Gait Disorders, Neurologic
+Symptom_D000787	1.5460128861251015e-06	Angina Pectoris
+Symptom_D003371	1.5204300575658264e-06	Cough
+Symptom_D020069	1.508696070880522e-06	Shoulder Pain
+Symptom_D015354	1.49316231249339e-06	Vision, Low
+Symptom_D001926	1.4859249319740787e-06	Brain Death
+Symptom_D009886	1.4830658479508454e-06	Ophthalmoplegia
+Symptom_D014832	1.476687831280431e-06	Voice Disorders
+Symptom_D005158	1.4615433381639068e-06	Facial Paralysis
+Symptom_D004172	1.4232325550176325e-06	Diplopia
+Symptom_D005414	1.4223119932016778e-06	Flatulence
+Symptom_D001041	1.4211775102360137e-06	Aphasia, Wernicke
+Symptom_D006337	1.4063170281717937e-06	Heart Murmurs
+Symptom_D003968	1.3759976075516606e-06	Diarrhea, Infantile
+Symptom_D053201	1.3390464850968904e-06	Urinary Bladder, Overactive
+Symptom_D014840	1.3166281864999491e-06	Vomiting, Anticipatory
+Symptom_D005316	1.29932144631115e-06	Fetal Distress
+Symptom_D012135	1.2797355905030335e-06	Respiratory Sounds
+Symptom_D010264	1.2675983484750534e-06	Paraplegia
+Symptom_D006429	1.263653518627512e-06	Hemiplegia
+Symptom_D018589	1.2444556274115496e-06	Gastroparesis
+Symptom_D009058	1.2257578732776643e-06	Mouth Breathing
+Symptom_D034381	1.2244777303100102e-06	Hearing Loss
+Symptom_D012607	1.2207604538858229e-06	Scotoma
+Symptom_D001260	1.2178725498558729e-06	Ataxia Telangiectasia
+Symptom_D007040	1.2045325551108238e-06	Hypoventilation
+Symptom_D006685	1.2009634622702165e-06	Hoarseness
+Symptom_D013575	1.1518239158643312e-06	Syncope
+Symptom_D007331	1.1468713159934483e-06	Insulin Coma
+Symptom_D004401	1.1215506554023851e-06	Dysarthria
+Symptom_D007625	1.099268550554326e-06	Kearns-Sayre Syndrome
+Symptom_D020820	1.084383299754361e-06	Dyskinesias
+Symptom_D011681	1.0647326876812538e-06	Pupil Disorders
+Symptom_D013851	1.0520348932273128e-06	Thinness
+Symptom_D014549	1.0477555045644557e-06	Urinary Incontinence
+Symptom_D006472	1.0259322686590756e-06	Oral Hemorrhage
+Symptom_D005320	1.0051194854425427e-06	Fetal Macrosomia
+Symptom_D002303	1.004499808212098e-06	Cardiac Output, Low
+Symptom_D006732	1.0006736372143592e-06	Horner Syndrome
+Symptom_D059352	9.791895688676054e-07	Musculoskeletal Pain
+Symptom_D055154	9.737195060972442e-07	Dysphonia
+Symptom_D014313	9.655565300269682e-07	Trismus
+Symptom_D011694	9.624933925033818e-07	Purpura, Hyperglobulinemic
+Symptom_D017566	9.609631348812464e-07	Microvascular Angina
+Symptom_D055111	9.596049728219215e-07	Failed Back Surgery Syndrome
+Symptom_D003490	9.567699653390176e-07	Cyanosis
+Symptom_D005130	9.5622401857889e-07	Eye Hemorrhage
+Symptom_D005884	9.55770753652236e-07	Gingival Hemorrhage
+Symptom_D055948	9.535016827650086e-07	Sarcopenia
+Symptom_D006316	9.486532511576704e-07	Hearing Loss, High-Frequency
+Symptom_D006423	9.466402879526222e-07	Hemianopsia
+Symptom_D004489	9.230626490441046e-07	Edema, Cardiac
+Symptom_D006314	9.216487181065962e-07	Hearing Loss, Conductive
+Symptom_D010845	9.09931901275724e-07	Obesity Hypoventilation Syndrome
+Symptom_D002559	8.942091054008863e-07	Cerebrospinal Fluid Rhinorrhea
+Symptom_D020182	8.934960872424104e-07	Sleep Apnea, Central
+Symptom_D009846	8.819841693097964e-07	Oliguria
+Symptom_D013035	8.799989435302274e-07	Spasm
+Symptom_D019080	8.715505049159823e-07	Cafe-au-Lait Spots
+Symptom_D004412	8.509728267166125e-07	Dysmenorrhea
+Symptom_D013651	8.342051760473255e-07	Taste Disorders
+Symptom_D006469	8.293767191404114e-07	Hemoptysis
+Symptom_D058447	8.289938222612891e-07	Eye Pain
+Symptom_D056865	8.272587971352222e-07	Ideal Body Weight
+Symptom_D014823	8.255357598007107e-07	Vitreous Hemorrhage
+Symptom_D013494	8.234225460215449e-07	Supranuclear Palsy, Progressive
+Symptom_D008998	8.23280618850235e-07	Monoclonal Gammopathy of Undetermined Significance
+Symptom_D014098	8.212488189347393e-07	Toothache
+Symptom_D015875	8.07156814875788e-07	Anisocoria
+Symptom_D019584	8.070424771999017e-07	Hot Flashes
+Symptom_D020567	7.960651874232333e-07	Fetal Weight
+Symptom_D007383	7.858339980142671e-07	Intermittent Claudication
+Symptom_D059607	7.724720060030096e-07	Polydipsia, Psychogenic
+Symptom_D063766	7.716334838339302e-07	Pediatric Obesity
+Symptom_D006606	7.581468819466024e-07	Hiccup
+Symptom_D000789	7.535442667404166e-07	Angina, Unstable
+Symptom_D020757	7.516656523355006e-07	Amaurosis Fugax
+Symptom_D006209	7.405953000273306e-07	Halitosis
+Symptom_D000849	7.390465956240055e-07	Anomia
+Symptom_D009755	7.293823363941596e-07	Night Blindness
+Symptom_D019569	7.289942953887118e-07	Hemifacial Spasm
+Symptom_D001049	7.193220045611209e-07	Apnea
+Symptom_D020240	7.030083005215234e-07	Apraxia, Ideomotor
+Symptom_D004411	6.787878041982855e-07	Dyslexia, Acquired
+Symptom_D019462	6.786528301701937e-07	Syncope, Vasovagal
+Symptom_D020923	6.758563715135241e-07	REM Sleep Parasomnias
+Symptom_D002832	6.724764821574105e-07	Choroid Hemorrhage
+Symptom_D006356	6.692071405822933e-07	Heartburn
+Symptom_D059787	6.55320100492436e-07	Acute Pain
+Symptom_D020335	6.321033049067302e-07	Paraparesis
+Symptom_D014826	6.190282668402417e-07	Vocal Cord Paralysis
+Symptom_D011538	6.170849233102434e-07	Pruritus Ani
+Symptom_D004614	6.126650731448449e-07	Emaciation
+Symptom_D003639	6.031395760911034e-07	Hearing Loss, Sudden
+Symptom_D020795	5.994836277884925e-07	Photophobia
+Symptom_D015877	5.994836277884925e-07	Miosis
+Symptom_D015845	5.942814769310671e-07	Tonic Pupil
+Symptom_D059411	5.912757519985901e-07	Lower Urinary Tract Symptoms
+Symptom_D053158	5.748958112892238e-07	Nocturia
+Symptom_D037061	5.658033648833377e-07	Metatarsalgia
+Symptom_D009127	5.582146007130682e-07	Muscle Rigidity
+Symptom_D001264	5.513553451704946e-07	Athetosis
+Symptom_D012912	5.513065991835892e-07	Sneezing
+Symptom_D001039	5.477689639403331e-07	Aphasia, Broca
+Symptom_D065634	5.463707220440869e-07	Cerebrospinal Fluid Leak
+Symptom_D012415	5.335451877375263e-07	Rubinstein-Taybi Syndrome
+Symptom_D059226	5.279579623319333e-07	Nociceptive Pain
+Symptom_D002558	5.270101057163989e-07	Cerebrospinal Fluid Otorrhea
+Symptom_D015878	5.256222952283645e-07	Mydriasis
+Symptom_D014008	5.177554210736795e-07	Tinea Pedis
+Symptom_D060050	5.139803491608021e-07	Angina, Stable
+Symptom_D014550	5.091591134906526e-07	Urinary Incontinence, Stress
+Symptom_D006312	5.028038667121728e-07	Hearing Loss, Bilateral
+Symptom_D020336	4.94646780324459e-07	Paraparesis, Spastic
+Symptom_D019591	4.824795210657867e-07	Pseudophakia
+Symptom_D006988	4.791064946507743e-07	Hyphema
+Symptom_D007706	4.775749297346267e-07	Menkes Kinky Hair Syndrome
+Symptom_D020919	4.760011651636574e-07	Sleep Disorders, Intrinsic
+Symptom_D015160	4.740963789820658e-07	Hydrops Fetalis
+Symptom_D020324	4.709954444885353e-07	Amnesia, Anterograde
+Symptom_D004418	4.704251254929782e-07	Dyspnea, Paroxysmal
+Symptom_D003655	4.6682074684651446e-07	Decerebrate State
+Symptom_D059373	4.661453315913026e-07	Mastodynia
+Symptom_D000788	4.549450001240317e-07	Angina Pectoris, Variant
+Symptom_D014770	4.46648270481505e-07	Virilism
+Symptom_D010167	4.46592824830535e-07	Pallor
+Symptom_D004433	4.369683445750721e-07	Earache
+Symptom_D018476	4.323255392513726e-07	Hypokinesia
+Symptom_D063806	4.250975933831859e-07	Myalgia
+Symptom_D019575	4.1552295717028e-07	Blindness, Cortical
+Symptom_D053448	4.141629466536888e-07	Prostatism
+Symptom_D059606	4.093801640375391e-07	Polydipsia
+Symptom_D000270	4.0818049272458097e-07	Adie Syndrome
+Symptom_D023341	4.00589135912977e-07	Chills
+Symptom_D009767	3.985182753883585e-07	Obesity, Morbid
+Symptom_D011218	3.985182753883585e-07	Prader-Willi Syndrome
+Symptom_D052120	3.918644858356154e-07	Glycogen Storage Disease Type IIb
+Symptom_D002639	3.918644858356154e-07	Cheyne-Stokes Respiration
+Symptom_D016534	3.8960903288459684e-07	Cardiac Output, High
+Symptom_D009122	3.872654737581885e-07	Muscle Hypertonia
+Symptom_D020828	3.842377512275991e-07	Pseudobulbar Palsy
+Symptom_D006313	3.812033544613194e-07	Hearing Loss, Central
+Symptom_D006628	3.7819047938893245e-07	Hirsutism
+Symptom_D064250	3.73115208445572e-07	Hypertriglyceridemic Waist
+Symptom_D053202	3.729112310357257e-07	Urinary Incontinence, Urge
+Symptom_D009128	3.68757718862763e-07	Muscle Spasticity
+Symptom_D018888	3.6671755246173953e-07	Aphasia, Primary Progressive
+Symptom_D057178	3.6671755246173953e-07	Primary Progressive Nonfluent Aphasia
+Symptom_D020236	3.6637283660269145e-07	Amnesia, Transient Global
+Symptom_D009290	3.639450777621729e-07	Narcolepsy
+Symptom_D020177	3.639450777621729e-07	Hypersomnolence, Idiopathic
+Symptom_D038921	3.639450777621729e-07	Coffin-Lowry Syndrome
+Symptom_D002385	3.639450777621729e-07	Cataplexy
+Symptom_D053159	3.474857554121058e-07	Dysuria
+Symptom_D012640	3.449218663232441e-07	Seizures
+Symptom_D018496	3.376318100230009e-07	Hyperoxia
+Symptom_D009222	3.341851823664618e-07	Myotonia
+Symptom_D006939	3.241153083392362e-07	Hyperemesis Gravidarum
+Symptom_D046088	3.171565080814867e-07	Hearing Loss, Unilateral
+Symptom_D045262	3.150273312779139e-07	Reticulocytosis
+Symptom_D006456	3.150273312779139e-07	Hemoglobinuria
+Symptom_D020235	3.1191129375135054e-07	Gait Apraxia
+Symptom_D005207	3.0915352826744533e-07	Fasciculation
+Symptom_D018886	3.012462404109591e-07	Aphasia, Conduction
+Symptom_D021501	2.9903461905804185e-07	Flank Pain
+Symptom_D053609	2.819879517712644e-07	Lethargy
+Symptom_D052245	2.816090653959553e-07	Usher Syndromes
+Symptom_D014929	2.8131947955816014e-07	Wolfram Syndrome
+Symptom_D020385	2.674921727307264e-07	Myokymia
+Symptom_D012133	2.664221230707104e-07	Respiratory Paralysis
+Symptom_D006317	2.5632876544670626e-07	Hearing Loss, Noise-Induced
+Symptom_D060486	2.475624472512259e-07	Ophthalmoplegic Migraine
+Symptom_D008580	2.4397165852424893e-07	Meningism
+Symptom_D020179	2.4276214973906414e-07	Jet Lag Syndrome
+Symptom_D055665	2.4276214973906414e-07	Purpura Fulminans
+Symptom_D053591	2.347834168956757e-07	Pain, Referred
+Symptom_D018437	2.2640565748444347e-07	Brown-Sequard Syndrome
+Symptom_D005862	2.2611147697177825e-07	Gerstmann Syndrome
+Symptom_D057774	2.2193677932975694e-07	Post-Exercise Hypotension
+Symptom_D019873	2.0589752753419598e-07	Schnitzler Syndrome
+Symptom_D062026	2.022829651903849e-07	Alice in Wonderland Syndrome
+Symptom_D065635	2.022829651903849e-07	Benign Paroxysmal Positional Vertigo
+Symptom_D053578	1.9869812331006826e-07	Opsoclonus-Myoclonus Syndrome
+Symptom_D011539	1.9493483874060163e-07	Pruritus Vulvae
+Symptom_D059390	1.8799600991289946e-07	Breakthrough Pain
+Symptom_D017246	1.858197773265868e-07	Ophthalmoplegia, Chronic Progressive External
+Symptom_D000370	1.787061211578811e-07	Ageusia
+Symptom_D054221	1.640898714123068e-07	Classical Lissencephalies and Subcortical Band Heterotopias
+Symptom_D020921	1.640898714123068e-07	Sleep Arousal Disorders
+Symptom_D054546	1.640898714123068e-07	Neuroacanthocytosis
+Symptom_D015325	1.640898714123068e-07	Pyruvate Dehydrogenase Complex Deficiency Disease
+Symptom_D054068	1.5736769672294645e-07	Livedo Reticularis
+Symptom_D001044	1.4874517133162164e-07	Aphonia
+Symptom_D059246	1.474685481251933e-07	Tachypnea
+Symptom_D004884	1.455670811853477e-07	Eructation
+Symptom_D058568	1.3835931249312066e-07	Necrolytic Migratory Erythema
+Symptom_D004408	1.2369442964245e-07	Dysgeusia
+Symptom_D034062	1.2041424550002157e-07	Insomnia, Fatal Familial
+Symptom_D055964	1.2041424550002157e-07	Alien Hand Syndrome
+Symptom_D002422	1.0872284397469509e-07	Causalgia
+Symptom_D053584	9.61699395209646e-08	Urinoma
+Symptom_D051474	8.865758944811656e-08	Neuralgia, Postherpetic
+Symptom_D016532	7.714421432659691e-08	Mucopolysaccharidosis II
+Symptom_D054972	7.535418000683748e-08	Postural Orthostatic Tachycardia Syndrome
+Symptom_D054971	7.535418000683748e-08	Orthostatic Intolerance
+Symptom_D055955	7.535418000683748e-08	Susac Syndrome
+Symptom_D053565	7.449530851844065e-08	Hypercalciuria
+Symptom_D014884	7.226518153885e-08	Waterhouse-Friderichsen Syndrome
+Symptom_D046089	7.102305872100233e-08	Hearing Loss, Mixed Conductive-Sensorineural
+Symptom_D057896	6.293391455197968e-08	Striae Distensae
+Symptom_D017624	4.970598954671987e-08	WAGR Syndrome
+Symptom_D060545	4.104773820811649e-08	Pudendal Neuralgia
+Symptom_D056844	3.981400886312915e-08	Renal Colic
+Symptom_D054078	3.2129599962850944e-08	Mevalonate Kinase Deficiency
+Symptom_D054160	1.7416417818417914e-08	Systolic Murmurs
+Symptom_D001832	0.0	Body Temperature Changes
+Symptom_D001836	0.0	Body Weight Changes
+Symptom_D005683	0.0	Gagging
+Symptom_D012817	0.0	Signs and Symptoms, Digestive
+Symptom_D012818	0.0	Signs and Symptoms, Respiratory
+Symptom_D018489	0.0	Space Motion Sickness
+Symptom_D018614	0.0	Sweating Sickness
+Symptom_D020150	0.0	Chorea Gravidarum
+Symptom_D020207	0.0	Coma, Post-Head Injury
+Symptom_D020237	0.0	Alexia, Pure
+Symptom_D020879	0.0	Neuromuscular Manifestations
+Symptom_D020924	0.0	Urological Manifestations
+Symptom_D046608	0.0	Synkinesis
+Symptom_D048968	0.0	Morning Sickness
+Symptom_D054062	0.0	Deaf-Blind Disorders
+Symptom_D055958	0.0	Piriformis Muscle Syndrome
+Symptom_D056124	0.0	Slit Ventricle Syndrome
+Symptom_D057768	0.0	Infantile Apparent Life-Threatening Event
+Symptom_D059245	0.0	Transient Tachypnea of the Newborn
+Symptom_D059388	0.0	Pelvic Girdle Pain
+Symptom_D060705	0.0	Dyscalculia
+Symptom_D065906	0.0	Hyperlactatemia
+Symptom_D066190	0.0	Allesthesia

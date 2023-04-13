@@ -1,0 +1,500 @@
+Side Effect_C0012833	1.009605177474996e-05	Dizziness
+Side Effect_C0018681	1.000346100081825e-05	Headache
+Side Effect_C0015230	9.848995765739712e-06	Rash
+Side Effect_C2830004	9.690243644423415e-06	Somnolence
+Side Effect_C0004093	9.618357778453951e-06	Asthenia
+Side Effect_C0020517	9.563348053690562e-06	Hypersensitivity
+Side Effect_C0009806	9.457387156065404e-06	Constipation
+Side Effect_C0011603	9.395912021950609e-06	Dermatitis
+Side Effect_C0011991	9.393762286972903e-06	Diarrhoea
+Side Effect_C0015672	9.39038230951643e-06	Fatigue
+Side Effect_C0027497	9.378628620765709e-06	Nausea
+Side Effect_C0042963	9.372096412857167e-06	Vomiting
+Side Effect_C0039231	9.356705990274198e-06	Tachycardia
+Side Effect_C0040822	9.315984125858474e-06	Tremor
+Side Effect_C0917801	9.300216454534896e-06	Insomnia
+Side Effect_C0015967	9.29448154007601e-06	Body temperature increased
+Side Effect_C0030193	9.256214476894782e-06	Pain
+Side Effect_C0042109	9.226188059603324e-06	Urticaria
+Side Effect_C0043352	9.170072203947569e-06	Dry mouth
+Side Effect_C0036572	9.123835266053258e-06	Convulsion
+Side Effect_C0085631	9.119842867880597e-06	Agitation
+Side Effect_C0017178	9.11826324023424e-06	Gastrointestinal disorder
+Side Effect_C0013395	9.06923652103197e-06	Dyspepsia
+Side Effect_C0033774	9.064811839795974e-06	Pruritus
+Side Effect_C0013404	9.033724789064288e-06	Dyspnoea
+Side Effect_C0030252	9.009743406352603e-06	Palpitations
+Side Effect_C1443060	8.98390542376195e-06	Feeling abnormal
+Side Effect_C0000737	8.96499495490212e-06	Abdominal pain
+Side Effect_C0020649	8.938525261412886e-06	Hypotension
+Side Effect_C0020580	8.927296274639478e-06	Hypoaesthesia
+Side Effect_C0003467	8.923687956880302e-06	Anxiety
+Side Effect_C0020458	8.91399484073094e-06	Hyperhidrosis
+Side Effect_C0687713	8.88762890951422e-06	Gastrointestinal pain
+Side Effect_C0036974	8.886388382990845e-06	Shock
+Side Effect_C0041657	8.858224307123035e-06	Loss of consciousness
+Side Effect_C0039070	8.849368079040235e-06	Syncope
+Side Effect_C0020538	8.846727007023995e-06	Hypertension
+Side Effect_C0002994	8.814983223019716e-06	Angioedema
+Side Effect_C0037763	8.798814682407221e-06	Muscle spasms
+Side Effect_C0232487	8.757398671827246e-06	Abdominal discomfort
+Side Effect_C0010200	8.723455816871563e-06	Cough
+Side Effect_C3665347	8.71997468848632e-06	Visual impairment
+Side Effect_C0234215	8.69479395416002e-06	Discomfort
+Side Effect_C0027765	8.688063774957819e-06	Nervous system disorder
+Side Effect_C0008031	8.684671296218746e-06	Chest pain
+Side Effect_C0013604	8.683723955001412e-06	Oedema
+Side Effect_C0021053	8.661403254851522e-06	Immune system disorder
+Side Effect_C0231218	8.65970474613255e-06	Malaise
+Side Effect_C2047937	8.650112773799266e-06	Ill-defined disorder
+Side Effect_C0043094	8.647213625553511e-06	Weight increased
+Side Effect_C0948594	8.625563006617065e-06	Musculoskeletal discomfort
+Side Effect_C0004936	8.6169237305758e-06	Mental disorder
+Side Effect_C0011168	8.59223645121934e-06	Dysphagia
+Side Effect_C0042571	8.581690761365474e-06	Vertigo
+Side Effect_C0018799	8.564734610627579e-06	Cardiac disorder
+Side Effect_C0025061	8.55541454189842e-06	Mediastinal disorder
+Side Effect_C0231528	8.553362614375985e-06	Myalgia
+Side Effect_C0013378	8.550301456331136e-06	Dysgeusia
+Side Effect_C0003862	8.536783954913247e-06	Arthralgia
+Side Effect_C0085649	8.518155974950968e-06	Oedema peripheral
+Side Effect_C0016204	8.487624850856326e-06	Flatulence
+Side Effect_C0234233	8.477660920956678e-06	Tenderness
+Side Effect_C0003811	8.465711590648942e-06	Arrhythmia
+Side Effect_C0022107	8.440354318792051e-06	Irritability
+Side Effect_C0004604	8.43117802277351e-06	Back pain
+Side Effect_C0038362	8.422466302489353e-06	Stomatitis
+Side Effect_C0232492	8.408295877826471e-06	Abdominal pain upper
+Side Effect_C0041834	8.40097448118443e-06	Erythema
+Side Effect_C0014591	8.373045380405313e-06	Epistaxis
+Side Effect_C0233472	8.369501791941592e-06	Affect lability
+Side Effect_C0037036	8.335690427195603e-06	Salivary hypersecretion
+Side Effect_C0497247	8.306354501492754e-06	Blood pressure increased
+Side Effect_C0006277	8.303431606605981e-06	Bronchitis
+Side Effect_C0027441	8.303347943871816e-06	Nasopharyngitis
+Side Effect_C0232461	8.302805445144103e-06	Increased appetite
+Side Effect_C0085633	8.301477833603882e-06	Mood swings
+Side Effect_C0149931	8.286769976305617e-06	Migraine
+Side Effect_C0002622	8.283563786394049e-06	Amnesia
+Side Effect_C0851578	8.282950908034297e-06	Sleep disorder
+Side Effect_C1306341	8.27591563901664e-06	Mental disability
+Side Effect_C0234458	8.270888851441215e-06	Abnormal dreams
+Side Effect_C0037199	8.264435921585273e-06	Sinusitis
+Side Effect_C0003864	8.258953052925646e-06	Arthritis
+Side Effect_C0149745	8.23356820028201e-06	Mouth ulceration
+Side Effect_C0236075	8.197896833726546e-06	Menopausal symptoms
+Side Effect_C0600142	8.196816221994374e-06	Hot flush
+Side Effect_C0520966	8.195458170888494e-06	Coordination abnormal
+Side Effect_C0025345	8.185993351383751e-06	Menstrual disorder
+Side Effect_C0004238	8.18162706289437e-06	Atrial fibrillation
+Side Effect_C0014724	8.179682017469488e-06	Eructation
+Side Effect_C1260880	8.142514547181404e-06	Rhinorrhoea
+Side Effect_C0038358	8.133220542774664e-06	Gastric ulcer
+Side Effect_C0233414	8.128555463830277e-06	Disturbance in attention
+Side Effect_C0852733	8.118798761985097e-06	Completed suicide
+Side Effect_C0037317	8.116168449231355e-06	Sleep disturbance
+Side Effect_C0521839	8.114793406354671e-06	Influenza like illness
+Side Effect_C0235710	8.106417047310614e-06	Chest discomfort
+Side Effect_C0549373	8.102895855493535e-06	Laryngeal pain
+Side Effect_C0017574	8.102730210777815e-06	Gingivitis
+Side Effect_C0858635	8.10199804018795e-06	Pharyngolaryngeal pain
+Side Effect_C0038661	8.089503153585873e-06	Suicide
+Side Effect_C0040460	8.084274461549732e-06	Toothache
+Side Effect_C0702166	8.079089171822868e-06	Acne
+Side Effect_C1527344	8.069542288082473e-06	Dysphonia
+Side Effect_C0235266	8.064092061299725e-06	Eye irritation
+Side Effect_C0152227	8.061465946419572e-06	Lacrimation increased
+Side Effect_C0019825	7.994226050998044e-06	Hoarseness
+Side Effect_C0700184	7.993087630664651e-06	Throat irritation
+Side Effect_C0038363	7.987642474189296e-06	Aphthous stomatitis
+Side Effect_C0162287	7.960009079918161e-06	Abnormal faeces
+Side Effect_C0040128	7.946056276984852e-06	Thyroid disorder
+Side Effect_C0030554	6.20888209237493e-06	Paraesthesia
+Side Effect_C0002792	5.931414996056897e-06	Anaphylactic shock
+Side Effect_C0027769	5.839228495915074e-06	Nervousness
+Side Effect_C0009676	5.747141775020824e-06	Confusional state
+Side Effect_C0233494	5.638091093384211e-06	Tension
+Side Effect_C0278134	5.525744840812071e-06	Sensory loss
+Side Effect_C0028643	5.520688289532152e-06	Numbness
+Side Effect_C2242996	5.49197953601175e-06	Tingling sensation
+Side Effect_C0021400	5.4401999633439335e-06	Influenza
+Side Effect_C0016382	5.396529816837614e-06	Flushing
+Side Effect_C0231530	5.395439983277511e-06	Muscle twitching
+Side Effect_C0027424	5.337353524702504e-06	Nasal congestion
+Side Effect_C0035455	5.326651538585077e-06	Rhinitis
+Side Effect_C0031350	5.317180814089283e-06	Pharyngitis
+Side Effect_C0700590	5.291636394062597e-06	Sweating increased
+Side Effect_C0013390	5.264669731147361e-06	Dysmenorrhoea
+Side Effect_C0006266	5.229767707349288e-06	Bronchospasm
+Side Effect_C0023218	5.219193980445541e-06	Cramps of lower extremities
+Side Effect_C0085932	5.169087069497146e-06	Dermatitis bullous
+Side Effect_C0233471	5.148282927627826e-06	Flat affect
+Side Effect_C0018801	5.147446517942882e-06	Cardiac failure
+Side Effect_C3665386	5.147444576428588e-06	Abnormal vision
+Side Effect_C0085632	5.146449951649585e-06	Apathy
+Side Effect_C0038587	5.129996250631631e-06	Withdrawal syndrome
+Side Effect_C0340464	5.117812150053881e-06	Extrasystoles
+Side Effect_C0040435	5.099830092783125e-06	Tooth disorder
+Side Effect_C0013456	5.096356293726973e-06	Ear pain
+Side Effect_C0030232	5.084923491283264e-06	Pallor
+Side Effect_C0232849	5.0808004707528445e-06	Bladder pain
+Side Effect_C0019521	5.070710634679044e-06	Hiccups
+Side Effect_C0010692	5.069935011374231e-06	Cystitis
+Side Effect_C0403632	5.06956324189886e-06	Cystitis noninfective
+Side Effect_C0332575	5.0530314947192e-06	Redness
+Side Effect_C0268000	5.033489298857537e-06	Fluid retention
+Side Effect_C0040409	5.031339370244074e-06	Tongue disorder
+Side Effect_C0085624	5.029619175693979e-06	Burning sensation
+Side Effect_C0233794	5.015729908363896e-06	Memory impairment
+Side Effect_C1145670	4.998714494010576e-06	Respiratory failure
+Side Effect_C0235198	4.997797168247077e-06	Cerebration impaired
+Side Effect_C0003537	4.993754606381445e-06	Aphasia
+Side Effect_C0037383	4.993547209410339e-06	Sneezing
+Side Effect_C0392171	4.992619623533904e-06	Influenza-like symptoms
+Side Effect_C0234131	4.989922230122652e-06	Motor dysfunction
+Side Effect_C0853813	4.989465602653909e-06	Local reaction
+Side Effect_C0038367	4.978028698951996e-06	Ulcerative stomatitis
+Side Effect_C0232292	4.967631458470049e-06	Chest tightness
+Side Effect_C0013146	4.96387076651291e-06	Drug abuse
+Side Effect_C0036104	4.96384097187903e-06	Salivation
+Side Effect_C0236000	4.961428453461333e-06	Pain in jaw
+Side Effect_C0439857	4.960147312782861e-06	Dependence
+Side Effect_C0018834	4.959157036545614e-06	Heartburn
+Side Effect_C0005758	4.954753546177311e-06	Blister
+Side Effect_C0151505	4.950265431155552e-06	Application site reaction
+Side Effect_C0549405	4.949112776571503e-06	Blood pressure fluctuation
+Side Effect_C0232431	4.948361223213529e-06	Cold sweat
+Side Effect_C1268766	4.946233397822218e-06	Change in blood pressure
+Side Effect_C0341012	4.929059697481179e-06	Oral herpes
+Side Effect_C0853619	4.927023089715628e-06	Local swelling
+Side Effect_C1096250	4.926904912570211e-06	Gastrointestinal discomfort
+Side Effect_C0019345	4.923193185933689e-06	Herpes labialis
+Side Effect_C0221423	4.908523585110887e-06	Sickness
+Side Effect_C0235966	4.904560935485047e-06	Dreaming excessive
+Side Effect_C0858259	4.901636428904482e-06	Nasal discomfort
+Side Effect_C0542203	4.89863978556259e-06	Water retention
+Side Effect_C0240557	4.896445006077834e-06	Nasal irritation
+Side Effect_C0035232	4.895878699794834e-06	Respiratory paralysis
+Side Effect_C3257803	4.895237996612607e-06	Tearing eyes
+Side Effect_C0399459	4.89355921616883e-06	Oral discomfort
+Side Effect_C0264267	4.890634390100735e-06	Nasal ulcer
+Side Effect_C0277794	4.889092142891947e-06	Prostration
+Side Effect_C1167842	4.887634063329295e-06	Tobacco withdrawal symptoms
+Side Effect_C0028043	4.887634063329295e-06	Nicotine dependence
+Side Effect_C0275378	4.887634063329295e-06	Tobacco poisoning
+Side Effect_C0238311	4.887634063329295e-06	Nicotine poisoning
+Side Effect_C0242350	4.6406467537459215e-06	Erectile dysfunction
+Side Effect_C0033975	4.429227951155846e-06	Psychotic disorder
+Side Effect_C0232462	4.1707896405671145e-06	Decreased appetite
+Side Effect_C0003123	4.057377725534338e-06	Anorexia
+Side Effect_C0009450	4.041312562546245e-06	Infection
+Side Effect_C0344232	3.935291077982994e-06	Vision blurred
+Side Effect_C0037274	3.910363067442645e-06	Skin disorder
+Side Effect_C0178298	3.867640279852867e-06	Unspecified disorder of skin and subcutaneous tissue
+Side Effect_C0080274	3.81220669033718e-06	Urinary retention
+Side Effect_C0040034	3.8105822077594615e-06	Thrombocytopenia
+Side Effect_C0018524	3.810484668113281e-06	Hallucination
+Side Effect_C0855242	3.801719780677637e-06	Disturbance in sexual arousal
+Side Effect_C0162830	3.79508759169984e-06	Photosensitivity reaction
+Side Effect_C0011124	3.78060379142533e-06	Libido decreased
+Side Effect_C0011570	3.767299972783329e-06	Depression
+Side Effect_C0027051	3.741732596159913e-06	Myocardial infarction
+Side Effect_C0948089	3.7414709032407447e-06	Acute coronary syndrome
+Side Effect_C0151827	3.732222306473268e-06	Eye pain
+Side Effect_C0162429	3.721126262403879e-06	Malnutrition
+Side Effect_C0235309	3.712626947979412e-06	Upset stomach
+Side Effect_C0015397	3.691015821938457e-06	Eye disorder
+Side Effect_C0235146	3.689464333688847e-06	Euphoric mood
+Side Effect_C0020456	3.676349296354477e-06	Hyperglycaemia
+Side Effect_C0002871	3.65883335740552e-06	Anaemia
+Side Effect_C0004096	3.653751411705784e-06	Asthma
+Side Effect_C0085593	3.624138788162177e-06	Chills
+Side Effect_C0042373	3.6239548478962703e-06	Angiopathy
+Side Effect_C0040264	3.6013801864554435e-06	Tinnitus
+Side Effect_C0151766	3.5900753948591257e-06	Liver function test abnormal
+Side Effect_C0042023	3.5848848689237317e-06	Pollakiuria
+Side Effect_C0015371	3.5686050907119228e-06	Extrapyramidal disorder
+Side Effect_C0267792	3.5469697610328623e-06	Hepatobiliary disease
+Side Effect_C0026961	3.5421163649060597e-06	Mydriasis
+Side Effect_C0025323	3.541396213232345e-06	Menorrhagia
+Side Effect_C0006145	3.5365312862178104e-06	Breast disorder
+Side Effect_C0014742	3.531944402717025e-06	Erythema multiforme
+Side Effect_C0020615	3.531336672501556e-06	Hypoglycaemia
+Side Effect_C0038454	3.528896270874287e-06	Cerebrovascular accident
+Side Effect_C0023380	3.508284257293176e-06	Lethargy
+Side Effect_C0234133	3.5045855628246626e-06	Extrapyramidal symptoms
+Side Effect_C0038325	3.4975764243029687e-06	Stevens-Johnson syndrome
+Side Effect_C0041969	3.481331982515538e-06	Urethral disorder
+Side Effect_C0042075	3.480258639804068e-06	Urinary tract disorder
+Side Effect_C0009782	3.479985833748325e-06	Connective tissue disorder
+Side Effect_C0014130	3.471853884064032e-06	Endocrine disorder
+Side Effect_C0428977	3.461195557657593e-06	Bradycardia
+Side Effect_C0002962	3.4520700677805463e-06	Angina pectoris
+Side Effect_C0039971	3.450145005871211e-06	Thirst
+Side Effect_C0233477	3.444667868611052e-06	Dysphoria
+Side Effect_C0549622	3.4368523460491044e-06	Sexual dysfunction
+Side Effect_C0338831	3.436244974472119e-06	Mania
+Side Effect_C3263723	3.4272163361256687e-06	Injury
+Side Effect_C0547030	3.426409910825026e-06	Visual disturbance
+Side Effect_C0009763	3.4166224652142783e-06	Conjunctivitis
+Side Effect_C0151908	3.404720493170213e-06	Dry skin
+Side Effect_C0000731	3.387711473662604e-06	Abdominal distension
+Side Effect_C0028084	3.38714739113817e-06	Nightmare
+Side Effect_C0021177	3.3787120303576374e-06	Libido increased
+Side Effect_C0151736	3.3773345913198096e-06	Accidental injury
+Side Effect_C0017181	3.376445364473756e-06	Gastrointestinal haemorrhage
+Side Effect_C0017152	3.375400988547941e-06	Gastritis
+Side Effect_C0028734	3.3741618716185425e-06	Nocturia
+Side Effect_C0851341	3.3738486865066087e-06	Infestation NOS
+Side Effect_C1384353	3.3738486865066087e-06	Infestation
+Side Effect_C0013595	3.373742777361548e-06	Eczema
+Side Effect_C0233407	3.3723244398220443e-06	Disorientation
+Side Effect_C0424000	3.364125705408812e-06	Suicidal ideation
+Side Effect_C0032617	3.35612754633354e-06	Polyuria
+Side Effect_C0233632	3.3560020355223174e-06	Thinking abnormal
+Side Effect_C0497156	3.353757241472402e-06	Lymphadenopathy
+Side Effect_C0001807	3.348727820109956e-06	Aggression
+Side Effect_C0038663	3.3455539762973764e-06	Suicide attempt
+Side Effect_C1167965	3.3405346919952982e-06	Urine output increased
+Side Effect_C0034065	3.3358787089770965e-06	Pulmonary embolism
+Side Effect_C0022660	3.334982093413688e-06	Renal failure acute
+Side Effect_C0085636	3.3345233936777475e-06	Photophobia
+Side Effect_C0011053	3.331266961158249e-06	Deafness
+Side Effect_C0026826	3.3254382226351188e-06	Hypertonia
+Side Effect_C0020621	3.32438536292069e-06	Hypokalaemia
+Side Effect_C1456784	3.3146650070467185e-06	Paranoia
+Side Effect_C0014868	3.3121251062273325e-06	Oesophagitis
+Side Effect_C0017979	3.3120147502638628e-06	Glycosuria
+Side Effect_C0026821	3.3065561625236445e-06	Cramp muscle
+Side Effect_C0011849	3.303991714079659e-06	Diabetes mellitus
+Side Effect_C0023518	3.303829860767336e-06	Leukocytosis
+Side Effect_C0011253	3.299990216334513e-06	Delusion
+Side Effect_C0020039	3.285034347891178e-06	Hostility
+Side Effect_C0042769	3.273595627848697e-06	Viral infection
+Side Effect_C0151636	3.273462532498369e-06	Ventricular extrasystoles
+Side Effect_C0029408	3.271855914612984e-06	Osteoarthritis
+Side Effect_C0033860	3.2692201361247885e-06	Psoriasis
+Side Effect_C0314719	3.258612874626576e-06	Dry eye
+Side Effect_C0018926	3.2537298672958325e-06	Haematemesis
+Side Effect_C0152128	3.2524804632999527e-06	Drug withdrawal syndrome
+Side Effect_C0028738	3.2486109718184462e-06	Nystagmus
+Side Effect_C0026858	3.2405206848807057e-06	Musculoskeletal pain
+Side Effect_C0392525	3.236180205365154e-06	Nephrolithiasis
+Side Effect_C0013362	3.226446799139981e-06	Dysarthria
+Side Effect_C0393760	3.2209048207682666e-06	Initial insomnia
+Side Effect_C0233514	3.2167983559521425e-06	Abnormal behaviour
+Side Effect_C0017168	3.213335528691215e-06	Gastrooesophageal reflux disease
+Side Effect_C0087169	3.212714160759533e-06	Withdrawal symptom
+Side Effect_C0393761	3.210467337443673e-06	Middle insomnia
+Side Effect_C0152029	3.2020510670684715e-06	Sinus congestion
+Side Effect_C0042345	3.2003298737480334e-06	Varicose vein
+Side Effect_C0344315	3.185125918774799e-06	Depressed mood
+Side Effect_C0026946	3.182684608549329e-06	Fungal infection
+Side Effect_C0522055	3.175019208360972e-06	Electrocardiogram abnormal
+Side Effect_C0575090	3.1747133108323302e-06	Balance disorder
+Side Effect_C0028081	3.1723577993063238e-06	Night sweats
+Side Effect_C0392386	3.1635066459472587e-06	Platelet count decreased
+Side Effect_C0162298	3.151701797951205e-06	Joint stiffness
+Side Effect_C0520887	3.1501922284136097e-06	Electrocardiogram ST segment depression
+Side Effect_C0227791	3.148493629331712e-06	Vaginal discharge
+Side Effect_C0010709	3.1437956539941203e-06	Cyst
+Side Effect_C0020473	3.1417061594017345e-06	Hyperlipidaemia
+Side Effect_C0020461	3.140961446139972e-06	Hyperkalaemia
+Side Effect_C0021843	3.138167374024515e-06	Intestinal obstruction
+Side Effect_C0497365	3.1363734713307733e-06	Rash generalised
+Side Effect_C0036454	3.133788854103864e-06	Scotoma
+Side Effect_C0029456	3.130650379932347e-06	Osteoporosis
+Side Effect_C0155003	3.1295549112367907e-06	Blindness transient
+Side Effect_C0030318	3.125907002461981e-06	Panic reaction
+Side Effect_C0035258	3.123414956474748e-06	Restless legs syndrome
+Side Effect_C0438142	3.1224968119221293e-06	Urine analysis abnormal
+Side Effect_C0476280	3.1223605249590923e-06	Musculoskeletal chest pain
+Side Effect_C0948349	3.122154408902097e-06	Respiratory tract congestion
+Side Effect_C0002957	3.1219306899873253e-06	Anger
+Side Effect_C0235639	3.12064685606348e-06	Urine abnormality
+Side Effect_C0007787	3.120425055937108e-06	Transient ischaemic attack
+Side Effect_C1510410	3.1176928993752424e-06	Parosmia
+Side Effect_C0001339	3.117393972485939e-06	Pancreatitis acute
+Side Effect_C0040053	3.1137198220339788e-06	Thrombosis
+Side Effect_C0013182	3.11030377914224e-06	Drug hypersensitivity
+Side Effect_C0541798	3.1085842374936776e-06	Terminal insomnia
+Side Effect_C0018932	3.1042490958686507e-06	Haematochezia
+Side Effect_C0085602	3.1032171465699023e-06	Polydipsia
+Side Effect_C0919980	3.102131089282201e-06	VIIth nerve paralysis
+Side Effect_C0085096	3.096213102808013e-06	Peripheral vascular disorder
+Side Effect_C1956346	3.0950248818079567e-06	Coronary artery disease
+Side Effect_C0233459	3.094493713110535e-06	Emotional disorder
+Side Effect_C0152027	3.0937498465157066e-06	Sensory disturbance
+Side Effect_C0025362	3.0934667623043127e-06	Mental retardation
+Side Effect_C0239739	3.0911916621085026e-06	Gingival pain
+Side Effect_C0015469	3.086486735526291e-06	Facial paralysis
+Side Effect_C0037384	3.0864813204619536e-06	Snoring
+Side Effect_C0008035	3.0856544105054165e-06	Chest wall pain
+Side Effect_C0027121	3.0847876339900083e-06	Myositis
+Side Effect_C0037672	3.0833568882892726e-06	Somnambulism
+Side Effect_C0016242	3.082924808292344e-06	Vitreous floaters
+Side Effect_C0554976	3.082719809799953e-06	Bradyphrenia
+Side Effect_C0235490	3.0823665958384995e-06	Peripheral ischaemia
+Side Effect_C0028077	3.07801965432772e-06	Night blindness
+Side Effect_C0027092	3.0777213225230533e-06	Myopia
+Side Effect_C0151934	3.0723378497388043e-06	Hypogeusia
+Side Effect_C2607914	3.071574622199727e-06	Rhinitis allergic
+Side Effect_C0032231	3.071567962523086e-06	Pleurisy
+Side Effect_C0016385	3.070960694264766e-06	Cardiac flutter
+Side Effect_C2938875	3.0702721557651807e-06	Upper-airway cough syndrome
+Side Effect_C0032781	3.0693006019593274e-06	Postnasal drip
+Side Effect_C0040213	3.0676797606295616e-06	Costochondritis
+Side Effect_C0278008	3.067647456507918e-06	Change of bowel habit
+Side Effect_C0235259	3.066702994078693e-06	Cataract subcapsular
+Side Effect_C0025281	3.065134807848724e-06	Meniere's disease
+Side Effect_C0455204	3.064950809209678e-06	Homicidal ideation
+Side Effect_C3665624	3.063585128395687e-06	Blood calcium decreased
+Side Effect_C0014356	3.0630684433294123e-06	Enterocolitis
+Side Effect_C0038002	3.0622446605886e-06	Splenomegaly
+Side Effect_C0086168	3.060691756293456e-06	Dissociation
+Side Effect_C0009144	3.0595992554716646e-06	Tongue coated
+Side Effect_C0016977	3.059152534804057e-06	Gallbladder disorder
+Side Effect_C0877167	3.054834112977002e-06	Psychomotor skills impaired
+Side Effect_C0034072	3.05476259318221e-06	Cor pulmonale
+Side Effect_C0742906	3.0525923376891742e-06	C-reactive protein increased
+Side Effect_C0429059	3.0523461376110457e-06	Electrocardiogram T wave amplitude decreased
+Side Effect_C0235756	3.052284289008568e-06	Semen abnormal
+Side Effect_C2363829	3.052284289008568e-06	Semen analysis abnormal
+Side Effect_C1141893	3.052103150961144e-06	Muscle enzyme increased
+Side Effect_C0026769	3.0520553226981744e-06	Multiple sclerosis
+Side Effect_C0877792	3.051973826364756e-06	Circadian rhythm sleep disorder
+Side Effect_C0235980	3.050856245875324e-06	Scleral discolouration
+Side Effect_C0877266	3.050670310000932e-06	Upper respiratory tract inflammation
+Side Effect_C0152202	3.050327991151997e-06	Acquired night blindness
+Side Effect_C0948522	3.050327991151997e-06	Ocular vascular disorder
+Side Effect_C0156279	3.050327991151997e-06	Urethral syndrome
+Side Effect_C0016770	3.050327991151997e-06	Frustration
+Side Effect_C0013144	1.2583858280001651e-06	Drowsiness
+Side Effect_C0019158	1.1318448148324177e-06	Hepatitis
+Side Effect_C0022346	1.058112987508423e-06	Jaundice
+Side Effect_C0023530	8.28968621016138e-07	Leukopenia
+Side Effect_C0031117	8.065160141850906e-07	Neuropathy peripheral
+Side Effect_C0002170	7.521845937389018e-07	Alopecia
+Side Effect_C0043096	7.432701859251782e-07	Weight decreased
+Side Effect_C0020651	7.239834469399347e-07	Orthostatic hypotension
+Side Effect_C0085605	6.984584112912761e-07	Hepatic failure
+Side Effect_C0013384	6.572137562884986e-07	Dyskinesia
+Side Effect_C0001824	6.502069839499171e-07	Agranulocytosis
+Side Effect_C0011071	6.479123066296612e-07	Sudden death
+Side Effect_C0011615	6.03233113246583e-07	Dermatitis atopic
+Side Effect_C0442874	5.87724644202294e-07	Neuropathy
+Side Effect_C0038990	5.831421651324317e-07	Sweating
+Side Effect_C0030312	5.743562219585234e-07	Pancytopenia
+Side Effect_C0018418	5.700014691443525e-07	Gynaecomastia
+Side Effect_C0042029	5.695042696967737e-07	Urinary tract infection
+Side Effect_C0027813	5.348547004111375e-07	Neuritis
+Side Effect_C0011606	5.294859900628864e-07	Dermatitis exfoliative
+Side Effect_C0302295	5.265460523645489e-07	Eruption
+Side Effect_C0014457	5.245425706857289e-07	Eosinophilia
+Side Effect_C0151798	5.217537383875745e-07	Hepatic necrosis
+Side Effect_C0029134	5.164997304682832e-07	Optic neuritis
+Side Effect_C0086525	5.075116933083932e-07	Lassitude
+Side Effect_C0234894	5.038646834632135e-07	Dermatitis acneiform
+Side Effect_C0018520	4.975956425387161e-07	Breath odour
+Side Effect_C0152025	4.823917863472229e-07	Polyneuropathy
+Side Effect_C0424295	4.806073853664581e-07	Hyperkinesia
+Side Effect_C0302809	4.802155043108972e-07	Hepatitis fulminant
+Side Effect_C0231230	4.78167700640193e-07	Fatigability
+Side Effect_C0018790	4.780321618082728e-07	Cardiac arrest
+Side Effect_C0038435	4.755083202275879e-07	Stress
+Side Effect_C0392156	4.714168677806311e-07	Akathisia
+Side Effect_C0175167	4.705711630803468e-07	Acneiform eruption
+Side Effect_C0019080	4.663752571730656e-07	Haemorrhage
+Side Effect_C0518015	4.634725715893209e-07	Haemoglobin
+Side Effect_C0032541	4.541202127775431e-07	Polyneuritis
+Side Effect_C1112256	4.534341395631482e-07	Peripheral sensorimotor neuropathy
+Side Effect_C0349506	4.512198496674561e-07	Photosensitivity
+Side Effect_C0027849	4.398549844944596e-07	Neuroleptic malignant syndrome
+Side Effect_C0002453	4.3651311779240987e-07	Amenorrhoea
+Side Effect_C0542571	4.255177340698514e-07	Face oedema
+Side Effect_C0575081	4.239791032377394e-07	Gait disturbance
+Side Effect_C0032285	4.149480040998093e-07	Pneumonia
+Side Effect_C0232459	4.089909515618731e-07	Digestion impaired
+Side Effect_C0151904	4.085813375542518e-07	Aspartate aminotransferase increased
+Side Effect_C0020625	3.9471259823233867e-07	Hyponatraemia
+Side Effect_C0686347	3.901866080050109e-07	Tardive dyskinesia
+Side Effect_C0031542	3.853534567357157e-07	Phlebitis
+Side Effect_C0023052	3.840204753731413e-07	Laryngeal oedema
+Side Effect_C0340865	3.78723546977913e-07	Anaphylactoid reaction
+Side Effect_C0012569	3.762919515909107e-07	Diplopia
+Side Effect_C0151905	3.734284115040169e-07	Alanine aminotransferase increased
+Side Effect_C0242422	3.7236605207900363e-07	Parkinsonism
+Side Effect_C0014518	3.700575366687664e-07	Toxic epidermal necrolysis
+Side Effect_C0018965	3.664135906142003e-07	Haematuria
+Side Effect_C0033117	3.601019041432813e-07	Priapism
+Side Effect_C0151735	3.555610297298913e-07	Injection site reaction
+Side Effect_C0023066	3.553664579964928e-07	Laryngospasm
+Side Effect_C0013428	3.536620913089259e-07	Dysuria
+Side Effect_C0004134	3.50191106987223e-07	Ataxia
+Side Effect_C0041912	3.490192237697924e-07	Upper respiratory tract infection
+Side Effect_C0011616	3.474372816759556e-07	Dermatitis contact
+Side Effect_C0030446	3.442048718489719e-07	Ileus paralytic
+Side Effect_C2363731	3.425894603615881e-07	Oropharyngeal pain
+Side Effect_C0042514	3.4074292465399534e-07	Ventricular tachycardia
+Side Effect_C0017160	3.385030002063091e-07	Gastroenteritis
+Side Effect_C0027947	3.3601899381222785e-07	Neutropenia
+Side Effect_C0236071	3.359648456742624e-07	Throat tightness
+Side Effect_C0152115	3.352289924273515e-07	Orofacial dyskinesia
+Side Effect_C0007398	3.285573791120609e-07	Catatonia
+Side Effect_C0040479	3.282585613706368e-07	Torsade de pointes
+Side Effect_C0030305	3.251174428284236e-07	Pancreatitis
+Side Effect_C0021141	3.210992992732368e-07	Inappropriate antidiuretic hormone secretion
+Side Effect_C0392676	3.2053243608760266e-07	Hyperpyrexia
+Side Effect_C0338614	3.189848901495862e-07	Psychotic episode
+Side Effect_C2363730	3.1627369769667404e-07	Oropharyngeal discomfort
+Side Effect_C0242429	3.152442248968047e-07	Throat sore
+Side Effect_C0151878	3.149367624332218e-07	Electrocardiogram QT prolonged
+Side Effect_C0235660	3.126706566730838e-07	Galactorrhoea
+Side Effect_C0040517	3.116635744299304e-07	Tourette's disorder
+Side Effect_C0002874	3.101078763857979e-07	Aplastic anaemia
+Side Effect_C0948525	3.040002230328588e-07	Musculoskeletal stiffness
+Side Effect_C0042024	3.014203482614576e-07	Urinary incontinence
+Side Effect_C0151564	3.003009886842794e-07	Cogwheel rigidity
+Side Effect_C0085688	2.9709510069541425e-07	Breast engorgement
+Side Effect_C0549209	2.9642335502391544e-07	Feeling jittery
+Side Effect_C0427086	2.9473913404599615e-07	Movements involuntary
+Side Effect_C0034150	2.944848886025208e-07	Purpura
+Side Effect_C0878544	2.9100726527689215e-07	Cardiomyopathy
+Side Effect_C0018939	2.903819919202185e-07	Blood disorder
+Side Effect_C0423791	2.889724629419458e-07	Rash maculo-papular
+Side Effect_C0424448	2.889109484811325e-07	Masked facies
+Side Effect_C0011175	2.877398259680323e-07	Dehydration
+Side Effect_C0040485	2.876421800810608e-07	Torticollis
+Side Effect_C0011206	2.861485667080192e-07	Delirium
+Side Effect_C0009319	2.847547196962029e-07	Colitis
+Side Effect_C0030196	2.835915708590296e-07	Pain in extremity
+Side Effect_C0152198	2.812616694760984e-07	Accommodation disorder
+Side Effect_C0026837	2.8011456779303585e-07	Muscle rigidity
+Side Effect_C0042510	2.7520865129685574e-07	Ventricular fibrillation
+Side Effect_C0241442	2.745208885282388e-07	Protrusion tongue
+Side Effect_C0035309	2.736593496448082e-07	Retinal disorder
+Side Effect_C0852911	2.7179409544726337e-07	Blood alkaline phosphatase increased
+Side Effect_C0600228	2.7085278737287933e-07	Cardio-respiratory arrest
+Side Effect_C0002878	2.682993410455695e-07	Haemolytic anaemia
+Side Effect_C0007859	2.647033869168761e-07	Neck pain
+Side Effect_C0086565	2.5947235512186226e-07	Hepatic function abnormal
+Side Effect_C1368065	2.584489866331649e-07	Vascular purpura
+Side Effect_C0151849	2.582577546605637e-07	Phosphatase alkaline increased
+Side Effect_C0013491	2.579656181008101e-07	Ecchymosis
+Side Effect_C0004245	2.576963148102004e-07	Atrioventricular block
+Side Effect_C0014549	2.563528368709301e-07	Grand mal convulsion
+Side Effect_C0086439	2.547697189200337e-07	Hypokinesia
+Side Effect_C0156404	2.542383225325768e-07	Menstruation irregular
+Side Effect_C0018802	2.4975601663933733e-07	Cardiac failure congestive
+Side Effect_C0037822	2.451846000999588e-07	Speech disorder
+Side Effect_C0151786	2.451730663722238e-07	Muscular weakness
+Side Effect_C0040046	2.4338306997313536e-07	Thrombophlebitis
+Side Effect_C0085637	2.396928630232603e-07	Oculogyric crisis
+Side Effect_C0220870	2.379173972311493e-07	Lightheadedness
+Side Effect_C0404521	2.366805782520845e-07	Vaginal infection
+Side Effect_C2981158	2.3499726336464834e-07	Loss of libido
+Side Effect_C0267596	2.3469510538089434e-07	Rectal haemorrhage
+Side Effect_C0011551	2.343814300192853e-07	Depersonalisation
+Side Effect_C0235969	2.334092313195509e-07	Ejaculation disorder
+Side Effect_C0025222	2.3277775161295446e-07	Melaena
+Side Effect_C0038999	2.320114289667897e-07	Swelling

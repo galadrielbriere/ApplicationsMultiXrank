@@ -31,4 +31,6 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 ```python ~/ApplicationsMultiXrank/Epilepsy/script_bash.py``` 
 
 #### Run downstream analysis of MultiXrank scores
-TODO
+```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/give_name.py``` 
+```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/check_results.py``` 
+```python ~/ApplicationsMultiXrank/Epilepsy/downstream_analysis/code_pie_tot.py``` 
