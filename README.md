@@ -45,3 +45,21 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 
 ##### Nicotine Dependence
 ```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/downstream_analysis/give_name.py``` 
+
+## Suppervised prediction of gene-disease associations
+
+### Create the training set 
+#### 1914 positive G-D associations (from DisGeNET v2.0) and 1914 negative G-D associations
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/training_set.py``` 
+
+### Running MXR for all associations in the training set
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/generate_rwr.py```
+
+### Store MXR results in sparse matrices
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/make_sparse_matrices.py```
+
+### Train classifiers
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/train_models.py```
+
+
+
