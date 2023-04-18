@@ -61,5 +61,14 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 ### Train classifiers
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/train_models.py```
 
+### Compare DisGeNET v2.0 (2014) and DisGeNET v7.0 (2020) associations
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/compare_2014_2020_associations.py```
+
+### Generate test set
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/make_test_set.py```
+
+### Run MXR for the test set
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/generate_rwr.py```
+
 
 
