@@ -14,7 +14,7 @@ os.chdir(path)
 try : 
     os.mkdir('seeds')
     os.mkdir('parameters')
-    os.mkdir('results')
+    # os.mkdir('results')
 except OSError : 
     pass
 
@@ -27,32 +27,38 @@ def mxrank(k) :
     file.write(training_data.iloc[k][0] + '\n' + training_data.iloc[k][1])
     file.close() 
     
-    bipartite_file = new_bipartite(training_data, k)
+    for prop in range(0,80,10):
+        results_prop = "results_prop" + str(prop)
+        try : 
+            os.mkdir(results_prop)
+        except OSError : 
+            pass    
+        
+        bipartite_file = new_bipartite(training_data, k, prop)
 
-    parameters_file = create_parameters(k, path)
+        parameters_file = create_parameters(k, path, prop)
 
-    multixrank_obj = mxk.Multixrank(config = parameters_file, wdir = path)
-    ranking = multixrank_obj.random_walk_rank()
-    multixrank_obj.write_ranking(ranking, path = "results/seeds_" + str(k))
+        multixrank_obj = mxk.Multixrank(config = parameters_file, wdir = path)
+        ranking = multixrank_obj.random_walk_rank()
+        multixrank_obj.write_ranking(ranking, path = results_prop + "/seeds_" + str(k))
 
-    try:
-        os.remove(seeds_file)
-        os.remove(parameters_file)
-        os.remove(bipartite_file)
-    except OSError : 
-        pass
+        try:
+            os.remove(parameters_file)
+            os.remove(bipartite_file)
+        except OSError : 
+            pass
 
-def new_bipartite(training_data, k):
+def new_bipartite(training_data, k, prop):
     # For the kth pair of seed, create a specific bipartite network without bipartite relation between the seed nodes
-    original_bipartite = "networks/bipartite/1_2.gr"
-    out_bipartite = 'networks/bipartite/1_2_seeds_' + str(k) + '.gr' 
+    original_bipartite = "networks/bipartite/1_2_prop" + str(prop) + ".gr"
+    out_bipartite = 'networks/bipartite/1_2_seeds_' + str(k) + '_prop' + str(prop) + ".gr" 
     gene = training_data.iloc[k][0]
     disease = training_data.iloc[k][1]
     sed_command = "sed '/%s\t%s/d' %s > %s" % (str(gene), str(disease), original_bipartite, out_bipartite)
     subprocess.call(sed_command, shell=True)
     return(out_bipartite)
 
-def create_parameters(k, path) : 
+def create_parameters(k, path, prop) : 
     r = 0.7
     eta = [1/2, 1/2]
     lamb = np.array([[0.5,0.5],\
@@ -87,7 +93,7 @@ def create_parameters(k, path) :
                         'graph_type: ' + '[00]' + '\n' + '        ' + \
                         'tau: ' + str(tau[1]) + '\n')
     file.write('bipartite: ' + '\n' + '    ' + \
-               'networks/bipartite/1_2_seeds_' + str(k) + '.gr: ' + '{source: protein, target: disease, graph_type: 01}')
+               'networks/bipartite/1_2_seeds_' + str(k) + '_prop' + str(prop) + '.gr: ' + '{source: protein, target: disease, graph_type: 01}') 
     file.close
     return(out_param)
 
