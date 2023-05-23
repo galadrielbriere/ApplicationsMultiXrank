@@ -16,8 +16,8 @@ novel = pd.read_csv('gene_disease_associations_2014_2020/novel_associations.tsv'
 depreciated = pd.read_csv('gene_disease_associations_2014_2020/depreciated_associations.tsv', sep = '\t', header = 0)
 
 # Load training associations
-training = pd.read_csv('../training.tsv', sep = '\t', header = None)
-training.columns = ["gene", "disease", "association"] 
+training = pd.read_csv('../training_f2.tsv', sep = '\t', header = None)
+training.columns = ["gene", "disease", "association", "num"] 
 
 # Extract only a subset that are in the protein multiplex and disease multiplex
 disease = pd.read_csv('networks/multiplex/2/new_disease.gr', sep = '\t', header = None)

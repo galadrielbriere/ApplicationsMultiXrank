@@ -19,22 +19,27 @@ except OSError :
     pass
 
 
-def mxrank(k) :
+def mxrank(k, prop = False) :
     print(str(k) + '\n')
 
     seeds_file = 'seeds/seeds_' + str(k) + '.txt'
     file = open(seeds_file,'w')
-    file.write(training_data.iloc[k][0] + '\n' + training_data.iloc[k][1])
+    file.write(test_data.iloc[k][0] + '\n' + test_data.iloc[k][1])
     file.close() 
     
-    for prop in range(0,80,10):
+    if prop:
+        range_prop = range(0,80,10)
+    else:
+        range_prop = range(1)
+
+    for prop in range_prop:
         results_prop = "results_prop" + str(prop)
         try : 
             os.mkdir(results_prop)
         except OSError : 
             pass    
         
-        bipartite_file = new_bipartite(training_data, k, prop)
+        bipartite_file = new_bipartite(test_data, k, prop)
 
         parameters_file = create_parameters(k, path, prop)
 
@@ -48,12 +53,12 @@ def mxrank(k) :
         except OSError : 
             pass
 
-def new_bipartite(training_data, k, prop):
+def new_bipartite(test_data, k, prop):
     # For the kth pair of seed, create a specific bipartite network without bipartite relation between the seed nodes
     original_bipartite = "networks/bipartite/1_2_prop" + str(prop) + ".gr"
     out_bipartite = 'networks/bipartite/1_2_seeds_' + str(k) + '_prop' + str(prop) + ".gr" 
-    gene = training_data.iloc[k][0]
-    disease = training_data.iloc[k][1]
+    gene = test_data.iloc[k][0]
+    disease = test_data.iloc[k][1]
     sed_command = "sed '/%s\t%s/d' %s > %s" % (str(gene), str(disease), original_bipartite, out_bipartite)
     subprocess.call(sed_command, shell=True)
     return(out_bipartite)
@@ -97,8 +102,8 @@ def create_parameters(k, path, prop) :
     file.close
     return(out_param)
 
-training_data = pd.read_csv('test_set_2020.tsv', sep = '\t', header = None)
+test_data = pd.read_csv('test_set_2020.tsv', sep = '\t', header = None)
 num_cpu = 20
 p = mp.Pool(processes=num_cpu)
-p.map(mxrank, [i for i in range(len(training_data))])  
+p.map(mxrank, [i for i in range(len(test_data))])  
 
