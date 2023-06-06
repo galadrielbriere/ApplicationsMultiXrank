@@ -21,55 +21,61 @@ Learn more about Hetionet:
 
 Run MultiXrank using the following commands:
 
-1 - Build Hetionet network
+##### 1 - Build Hetionet network
 
 ```python ~/ApplicationsMultiXrank/Hetionet/HetionetDB_to_MultiXrankDB/hetionet_to_multixrank.py``` 
 
-2 - Run MultiXrank
+##### 2 - Run MultiXrank
 
-##### Epilepsy
+Epilepsy
+
 ```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/run_mxr.py``` 
 
-##### Nicotine Dependence
+Nicotine Dependence
+
 ```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/run_mxr.py``` 
 
 
-3 - Run downstream analysis of MultiXrank scores
+##### 3 - Run downstream analysis of MultiXrank scores
 
-##### Epilepsy
+Epilepsy
+
 ```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/give_name.py``` 
 
 ```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/check_results.py```
 
 ```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/code_pie_tot.py``` 
 
-##### Nicotine Dependence
+Nicotine Dependence
+
 ```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/downstream_analysis/give_name.py``` 
 
 ## Suppervised prediction of gene-disease associations
 
-1 - Create the training set
-##### 1914 positive G-D associations (from DisGeNET, v2.0, 2014) and 3828 negative G-D associations sampled randomly
+##### 1 - Create the training set
+1914 positive G-D associations (from DisGeNET, v2.0, 2014) and 3828 negative G-D associations sampled randomly
 
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/training_set.py``` 
 
-2 - Run MXR for all associations in the training set and store the results in sparse matrices
+##### 2 - Run MXR for all associations in the training set and store the results in sparse matrices
 
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/generate_rwr.py```
 
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/make_sparse_matrices.py```
 
-3 - Train classifiers
+##### 3 - Train classifiers
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/train_models.py```
 
-4 - Compare DisGeNET v2.0 (2014) and DisGeNET v7.0 (2020) associations and generate the test set
+##### 4 - Compare DisGeNET v2.0 (2014) and DisGeNET v7.0 (2020) associations and generate the test set
 
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/compare_2014_2020_associations.py```
 
-##### 7218 positive G-D associations (from DisGeNET, v7.0, 2020) and 7218 negative G-D associations sampled randomly
+7218 positive G-D associations (from DisGeNET, v7.0, 2020) and 7218 negative G-D associations sampled randomly
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/make_test_set.py```
 
-5 - Predict 2020 associations from MXR scores
+##### 5 - Predict 2020 associations from MXR scores
 
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/generate_rwr.py```
 
