@@ -3,39 +3,39 @@ Anthony Baptista, Galadriel Brière, Anaïs Baudot
 
 ## Node prioritization in Leukemia
 
-<div style="max-width:100%;"><img src="Leukemia/multiXrank_results/cytoscape_net/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
+Run MultiXrank using the following command line:
 
-### Run MultiXrank using the following command line:
+```python ~/ApplicationsMultiXrank/Leukemia/run_mxr.py``` 
 
-```python ~/ApplicationsMultiXrank/Leukemia/script_bash.py``` 
+Visualize top 20 proritized genes and drugs in Cytoscape with file: [Leukemia/multiXrank_results/top20_cyto.cys](Leukemia/multiXrank_results/top20_cyto.cys)
 
-### Visualize results
-Visualize top 20 proritized genes and drugs in Cytoscape with file: [Leukemia/multiXrank_results/cytoscape_net/top20.cys](Leukemia/multiXrank_results/cytoscape_net/top20.cys)
+<div style="max-width:100%;"><img src="Leukemia/multiXrank_results/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
 
-Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_net/web_session](Leukemia/multiXrank_results/cytoscape_net/web_session/)
+## Node prioritization in Epilepsy and Nicotine Dependence using the Hetionet network
 
-## Node prioritization in Epilepsy and Nicotine Dependence using the Hetionet framework
-
-### Learn more about Hetionet 
+Learn more about Hetionet:
 
 + [**Systematic integration of biomedical knowledge prioritizes drugs for repurposing**](https://doi.org/10.7554/eLife.26726)<br>
   Daniel S Himmelstein, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, Sergio E Baranzini<br>
   _eLife_. 2017. DOI: 10.7554/eLife.26726
 
-### Run MultiXrank using the following command line:
+Run MultiXrank using the following commands:
 
-#### Build Hetionet network
+1 - Build Hetionet network
+
 ```python ~/ApplicationsMultiXrank/Hetionet/HetionetDB_to_MultiXrankDB/hetionet_to_multixrank.py``` 
 
-#### Run MultiXrank
+2 - Run MultiXrank
+
 ##### Epilepsy
-```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/script_bash.py``` 
+```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/run_mxr.py``` 
 
 ##### Nicotine Dependence
-```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/script_bash.py``` 
+```python ~/ApplicationsMultiXrank/Hetionet/NicotineDependence/run_mxr.py``` 
 
 
-#### Run downstream analysis of MultiXrank scores
+3 - Run downstream analysis of MultiXrank scores
+
 ##### Epilepsy
 ```python ~/ApplicationsMultiXrank/Hetionet/Epilepsy/downstream_analysis/give_name.py``` 
 
@@ -48,27 +48,33 @@ Or explore the network on your browser: [Leukemia/multiXrank_results/cytoscape_n
 
 ## Suppervised prediction of gene-disease associations
 
-### Create the training set 
-#### 1914 positive G-D associations (from DisGeNET v2.0) and 1914 negative G-D associations
+1 - Create the training set
+##### 1914 positive G-D associations (from DisGeNET, v2.0, 2014) and 3828 negative G-D associations sampled randomly
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/training_set.py``` 
 
-### Running MXR for all associations in the training set
+2 - Run MXR for all associations in the training set and store the results in sparse matrices
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/generate_rwr.py```
 
-### Store MXR results in sparse matrices
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/make_sparse_matrices.py```
 
-### Train classifiers
+3 - Train classifiers
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/train_models.py```
 
-### Compare DisGeNET v2.0 (2014) and DisGeNET v7.0 (2020) associations
+4 - Compare DisGeNET v2.0 (2014) and DisGeNET v7.0 (2020) associations and generate the test set
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/compare_2014_2020_associations.py```
 
-### Generate test set
+##### 7218 positive G-D associations (from DisGeNET, v7.0, 2020) and 7218 negative G-D associations sampled randomly
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/make_test_set.py```
 
-### Run MXR for the test set
+5 - Predict 2020 associations from MXR scores
+
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/generate_rwr.py```
 
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/make_sparse_matrices.py```
 
+```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/predict_2020associations.py```
 
+You can also run the pipeline for a 3 layer network containing a drug interaction layer by repeating the same steps in GeneDiseaseAssociations/2_gene_disease_drug_multiplexes.
