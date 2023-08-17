@@ -16,7 +16,7 @@ path = os.path.dirname(os.path.realpath(__file__))
 path = path + '/'
 os.chdir(path)
 
-logging.basicConfig(filename='results_models_SVM_GB_RF_2020associations_all.log', level=logging.INFO)
+logging.basicConfig(filename='results_f2_models_SVM_GB_RF_2020.log', level=logging.INFO)
 
 
 def split_size(tot_size, piece) :
@@ -62,6 +62,7 @@ def read_sparse_matrix(prop):
     list_sparse = list()
     for i in range(num) :
         temp = sp.sparse.load_npz('results_sparse_' + str(prop) + '/data_rwr_sparse_' + str(i) + '.npz')
+        print('results_sparse_' + str(prop) + '/data_rwr_sparse_' + str(i) + '.npz')
         list_sparse.append(temp)
     data = sp.sparse.vstack([i for i in list_sparse])
     del list_sparse
@@ -91,8 +92,11 @@ def predict(k):
     y_pred = clf.predict(X_processed)
 
     quality = get_classif_metrics(y, y_pred)
-    
-    return(path_classifier[k], quality)
+
+    results_pred = label.copy()
+    results_pred['predicted'] = y_pred
+
+    return(path_classifier[k], quality, results_pred)
     
 for prop in range(1):
     list_net = ['protein', 'disease']
@@ -101,18 +105,17 @@ for prop in range(1):
     num_multi = len(list_net)
     piece_size = split_size(tot_size, piece)
 
-    label = pd.read_csv('test_set_2020.tsv', sep = '\t', header = None)
+    label = pd.read_csv('test_set_2020_f2.tsv', sep = '\t', header = None)
 
     index = define_sparse_matrix(prop, piece_size, num_multi, list_net, label)
     X = read_sparse_matrix(prop)
     y = label[2]
-    y[0:int(len(y)/2)] = pd.Series(np.ones(int(len(y)/2)), dtype = int)
-
-
+    
     path_classifier = sorted(glob.glob('../classifiers_f2_SVM_GB_RF/*.sav'))
+    path_classifier_out = [string.replace('../classifiers_f2_SVM_GB_RF/', '') for string in path_classifier]
     size = len(path_classifier)
 
-    num_cpu = 5
+    num_cpu = 1
     p = mp.Pool(processes=num_cpu)
     results = p.map(predict, [k for k in range(size)])  
 
@@ -120,3 +123,7 @@ for prop in range(1):
     for k in range(len(results)):
         logging.info(f'####### {results[k][0]} \t {results[k][1]}')
         print(f'####### {results[k][0]} \t {results[k][1]}')
+        fileout = f"results_prediction_prop_{prop}/{path_classifier_out[k]}.csv"
+        results[k][2].to_csv(fileout, sep = '\t', header = None, index = False)
+        logging.info(f'Classification results saved in file:{fileout}')
+        

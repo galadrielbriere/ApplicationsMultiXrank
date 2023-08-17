@@ -10,7 +10,7 @@ path = os.path.dirname(os.path.realpath(__file__))
 path = path + '/'
 os.chdir(path)
 
-factor = 1
+factor = 2
 results_dir = 'results_f' + str(factor) 
 results_sparse_dir = 'results_sparse_f' + str(factor) 
     
@@ -56,6 +56,6 @@ tot_size = int(len(glob.glob(results_dir + '/*')))
 piece = 600
 num_multi = len(list_net)
 piece_size = split_size(tot_size, piece)
-label = pd.read_csv('test_set_2020.tsv', sep = '\t', header = None)
+label = pd.read_csv('test_set_2020_f2.tsv', sep = '\t', header = None)
 
 define_sparse_matrix(piece_size, num_multi, label) 

@@ -102,7 +102,7 @@ def create_parameters(k, path, prop) :
     file.close
     return(out_param)
 
-test_data = pd.read_csv('test_set_2020.tsv', sep = '\t', header = None)
+test_data = pd.read_csv('test_set_2020_f2.tsv', sep = '\t', header = None)
 num_cpu = 20
 p = mp.Pool(processes=num_cpu)
 p.map(mxrank, [i for i in range(len(test_data))])  

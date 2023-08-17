@@ -37,7 +37,7 @@ all_assoc = pd.concat([novel_in_graph[['gene', "disease"]], training[['gene', "d
 all_assoc = [tuple(x) for x in all_assoc.to_numpy()]
 
 # Sample negative associations
-factor = 1
+factor = 2
 num_neg = len(novel_in_graph)*factor
 compt = 0
 list_neg = list()
@@ -56,7 +56,7 @@ neg_assoc[2] = pd.Series(np.zeros((len(neg_assoc))), dtype = int)
 neg_assoc.columns = ["gene", "disease", "association"]
 
 # Save positive and negative sets
-novel_in_graph[['gene', "disease", "association"]].to_csv('pos_associations_2020.tsv', sep = '\t', header = None, index = False)
-neg_assoc.to_csv('neg_associations_2020.tsv', sep = '\t', header = None, index = False)
+novel_in_graph[['gene', "disease", "association"]].to_csv('pos_associations_2020_f2.tsv', sep = '\t', header = None, index = False)
+neg_assoc.to_csv('neg_associations_2020_f2.tsv', sep = '\t', header = None, index = False)
 training_data_2020 = pd.concat([novel_in_graph, neg_assoc])
-training_data_2020[['gene', "disease", "association"]].to_csv('test_set_2020.tsv', sep = '\t', header = None, index = False)
+training_data_2020[['gene', "disease", "association"]].to_csv('test_set_2020_f2.tsv', sep = '\t', header = None, index = False)

@@ -1,0 +1,55 @@
+INFO:root:########### Results for proportion = 0
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.1_class1_0.9.sav 	 {'accuracy': 0.6701764108247898, 'balanced_accuracy': 0.6420753671377113, 'f1_score': 0.5299460313281559, 'tp': 4026, 'fp': 3950, 'tn': 10486, 'fn': 3192}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.1_class1_0.9.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.2_class1_0.8.sav 	 {'accuracy': 0.6762722822573196, 'balanced_accuracy': 0.632966195622056, 'f1_score': 0.5088284753363229, 'tp': 3631, 'fp': 3423, 'tn': 11013, 'fn': 3587}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.2_class1_0.8.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.3_class1_0.7.sav 	 {'accuracy': 0.6865244296665743, 'balanced_accuracy': 0.6327237461900803, 'f1_score': 0.5005885815185404, 'tp': 3402, 'fp': 2972, 'tn': 11464, 'fn': 3816}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.3_class1_0.7.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.4_class1_0.6.sav 	 {'accuracy': 0.6910039715526, 'balanced_accuracy': 0.6270088667220837, 'f1_score': 0.484156965538509, 'tp': 3140, 'fp': 2613, 'tn': 11823, 'fn': 4078}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.4_class1_0.6.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.5_class1_0.5.sav 	 {'accuracy': 0.6956220559711832, 'balanced_accuracy': 0.6221945137157107, 'f1_score': 0.4681675139191479, 'tp': 2901, 'fp': 2274, 'tn': 12162, 'fn': 4317}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.5_class1_0.5.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.6_class1_0.4.sav 	 {'accuracy': 0.6983929066223331, 'balanced_accuracy': 0.6158561928512053, 'f1_score': 0.44872119523930115, 'tp': 2658, 'fp': 1971, 'tn': 12465, 'fn': 4560}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.6_class1_0.4.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.7_class1_0.3.sav 	 {'accuracy': 0.7008404913641821, 'balanced_accuracy': 0.6130853422000555, 'f1_score': 0.4380638445523942, 'tp': 2525, 'fp': 1785, 'tn': 12651, 'fn': 4693}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.7_class1_0.3.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.8_class1_0.2.sav 	 {'accuracy': 0.7027339059758012, 'balanced_accuracy': 0.6059850374064838, 'f1_score': 0.41455206912232834, 'tp': 2279, 'fp': 1498, 'tn': 12938, 'fn': 4939}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.8_class1_0.2.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/GB_class0_0.9_class1_0.1.sav 	 {'accuracy': 0.704165512145562, 'balanced_accuracy': 0.5984344693821003, 'f1_score': 0.3879227976304223, 'tp': 2030, 'fp': 1218, 'tn': 13218, 'fn': 5188}
+INFO:root:Classification results saved in file:results_prediction_prop_0/GB_class0_0.9_class1_0.1.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.1_class1_0.9.sav 	 {'accuracy': 0.6638958160155167, 'balanced_accuracy': 0.5663272374619008, 'f1_score': 0.3517990737442109, 'tp': 1975, 'fp': 2035, 'tn': 12401, 'fn': 5243}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.1_class1_0.9.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.2_class1_0.8.sav 	 {'accuracy': 0.6771497182968504, 'balanced_accuracy': 0.576163757273483, 'f1_score': 0.36067672610882484, 'tp': 1972, 'fp': 1745, 'tn': 12691, 'fn': 5246}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.2_class1_0.8.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.3_class1_0.7.sav 	 {'accuracy': 0.676457005634063, 'balanced_accuracy': 0.5776184538653366, 'f1_score': 0.36677512653651484, 'tp': 2029, 'fp': 1817, 'tn': 12619, 'fn': 5189}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.3_class1_0.7.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.4_class1_0.6.sav 	 {'accuracy': 0.677288260829408, 'balanced_accuracy': 0.5826059850374066, 'f1_score': 0.3814834483979465, 'tp': 2155, 'fp': 1925, 'tn': 12511, 'fn': 5063}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.4_class1_0.6.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.5_class1_0.5.sav 	 {'accuracy': 0.6849081001200702, 'balanced_accuracy': 0.5936547520088666, 'f1_score': 0.4036360458001923, 'tp': 2309, 'fp': 1914, 'tn': 12522, 'fn': 4909}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.5_class1_0.5.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.6_class1_0.4.sav 	 {'accuracy': 0.6847233767433268, 'balanced_accuracy': 0.599889165973954, 'f1_score': 0.422077372386354, 'tp': 2493, 'fp': 2102, 'tn': 12334, 'fn': 4725}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.6_class1_0.4.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.7_class1_0.3.sav 	 {'accuracy': 0.6862935254456451, 'balanced_accuracy': 0.6093446938210031, 'f1_score': 0.44578608142286036, 'tp': 2732, 'fp': 2307, 'tn': 12129, 'fn': 4486}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.7_class1_0.3.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.8_class1_0.2.sav 	 {'accuracy': 0.6840306640805394, 'balanced_accuracy': 0.6145746744250485, 'f1_score': 0.46151424523847, 'tp': 2932, 'fp': 2556, 'tn': 11880, 'fn': 4286}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.8_class1_0.2.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/RF_class0_0.9_class1_0.1.sav 	 {'accuracy': 0.6796896647270713, 'balanced_accuracy': 0.618142144638404, 'f1_score': 0.47430650295588905, 'tp': 3129, 'fp': 2847, 'tn': 11589, 'fn': 4089}
+INFO:root:Classification results saved in file:results_prediction_prop_0/RF_class0_0.9_class1_0.1.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.1_class1_0.9.sav 	 {'accuracy': 0.5759213078415073, 'balanced_accuracy': 0.5701717927403713, 'f1_score': 0.46501602097291006, 'tp': 3991, 'fp': 5956, 'tn': 8480, 'fn': 3227}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.1_class1_0.9.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.2_class1_0.8.sav 	 {'accuracy': 0.5695483513438626, 'balanced_accuracy': 0.5650803546688834, 'f1_score': 0.4607463118310674, 'tp': 3982, 'fp': 6085, 'tn': 8351, 'fn': 3236}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.2_class1_0.8.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.3_class1_0.7.sav 	 {'accuracy': 0.5533850558788215, 'balanced_accuracy': 0.542809642560266, 'f1_score': 0.4327526541146108, 'tp': 3689, 'fp': 6142, 'tn': 8294, 'fn': 3529}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.3_class1_0.7.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.4_class1_0.6.sav 	 {'accuracy': 0.5463193867183892, 'balanced_accuracy': 0.5352244389027432, 'f1_score': 0.4244874048037493, 'tp': 3623, 'fp': 6229, 'tn': 8207, 'fn': 3595}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.4_class1_0.6.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.5_class1_0.5.sav 	 {'accuracy': 0.5417936639881777, 'balanced_accuracy': 0.5279163203103353, 'f1_score': 0.4143548577499705, 'tp': 3510, 'fp': 6214, 'tn': 8222, 'fn': 3708}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.5_class1_0.5.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.6_class1_0.4.sav 	 {'accuracy': 0.526646347095225, 'balanced_accuracy': 0.5149279578830701, 'f1_score': 0.4032370749883558, 'tp': 3463, 'fp': 6495, 'tn': 7941, 'fn': 3755}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.6_class1_0.4.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.7_class1_0.3.sav 	 {'accuracy': 0.5185646993627043, 'balanced_accuracy': 0.5033596564145193, 'f1_score': 0.38795279751071454, 'tp': 3304, 'fp': 6511, 'tn': 7925, 'fn': 3914}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.7_class1_0.3.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.8_class1_0.2.sav 	 {'accuracy': 0.504664265262769, 'balanced_accuracy': 0.4895054031587697, 'f1_score': 0.3740662931839403, 'tp': 3205, 'fp': 6713, 'tn': 7723, 'fn': 4013}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.8_class1_0.2.sav.csv
+INFO:root:####### ../classifiers_f2_SVM_GB_RF/SVM_class0_0.9_class1_0.1.sav 	 {'accuracy': 0.4875773529140113, 'balanced_accuracy': 0.4741964533111665, 'f1_score': 0.36090312176016587, 'tp': 3133, 'fp': 7011, 'tn': 7425, 'fn': 4085}
+INFO:root:Classification results saved in file:results_prediction_prop_0/SVM_class0_0.9_class1_0.1.sav.csv
