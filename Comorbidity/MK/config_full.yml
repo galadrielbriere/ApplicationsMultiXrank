@@ -1,0 +1,47 @@
+seed: seeds.txt
+r: 0.7
+# self_loops: Are self-loops allowed? 1 yes, 0 not
+self_loops: 0
+# eta: Restart probability for each multiplex. Must sum up to one.
+eta: [0,0,0,1]
+#4. Inter multiplex Networks Jump Probability (lambda)
+lamb:
+    - [1/4,1/4,1/4,1/4]
+    - [1/4,1/4,1/4,1/4]
+    - [1/4,1/4,1/4,1/4]
+    - [1/4,1/4,1/4,1/4]
+multiplex:
+    1:
+        layers:
+            - multiplex/1/Complexes.tsv
+            - multiplex/1/PPI.tsv
+            - multiplex/1/Reactome.tsv
+        delta: 0.5
+        # Graph type: unweighted/weighted, undirected/directed
+        graph_type: [00, 00, 00]
+        # Restart probabily 3. Layers Restart Probability (tau)
+        tau: [1/3, 1/3, 1/3]
+    2:
+        layers:
+            - multiplex/2/MK_network.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]
+    3:
+        layers:
+            - multiplex/3/tad_network.tsv
+        delta: 0
+        graph_type: [00]
+        tau: [1]
+    4:
+        layers:
+            - multiplex/4/disease_disease_final.tsv
+        delta: 0
+        graph_type: [00]
+        tau: [1]
+bipartite:
+    bipartite/1_2.tsv: {source: 1, 'target': 2, graph_type: 00}
+    bipartite/3_1.tsv: {source: 3, 'target': 1, graph_type: 00}
+    bipartite/3_2.tsv: {source: 3, 'target': 2, graph_type: 00}
+    bipartite/4_1.tsv: {source: 4, 'target': 1, graph_type: 01}
+

@@ -1,0 +1,4 @@
+1 : protein
+2 : fragment
+3 : tad
+4 : disease
