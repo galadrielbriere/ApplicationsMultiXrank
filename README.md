@@ -84,3 +84,18 @@ Nicotine Dependence
 ```python ~/ApplicationsMultiXrank/GeneDiseaseAssociations/1_gene_disease_multiplexes/test_2020associations/predict_2020associations.py```
 
 You can also run the pipeline for a 3 layer network containing a drug interaction layer by repeating the same steps in GeneDiseaseAssociations/2_gene_disease_drug_multiplexes.
+
+## Diffusion Profiles in Hematopoietic Cells for Immune Disease Comparison 
+
+##### 1 - Define seed immune diseases
+
+```python ~/ApplicationsMultiXrank/Comorbidity/immune_diseases_set.py```
+
+Going from the list of immune diseases contained in `autoimmune_disease.txt`, keep as seeds autoimmune diseases that appear in the disease layer `diseases_monoplex_no_self_loop.tsv`. Note that MultiXrank do not consider seeds that only present self-loops in the multiplex network. Hence, we only consider immune diseases that are connected to other diseases in the disease layer.
+
+##### 2 - Run MultiXrank for each immune disease taken as seed and each of the hematopoietic cell-specific network
+
+```python ~/ApplicationsMultiXrank/Comorbidity/run_MXR.py```
+
+
+
