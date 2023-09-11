@@ -97,5 +97,10 @@ Going from the list of immune diseases contained in `autoimmune_disease.txt`, ke
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/run_MXR.py```
 
+##### 3 - Analyse MultiXrank output scores
+
+<div style="max-width:100%;"><img src="Comorbidity/results/figures/all_integrated_PCA_tissue.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
+
+```python ~/ApplicationsMultiXrank/Comorbidity/analysis_results.py```
 
 
