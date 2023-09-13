@@ -14,6 +14,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os 
 import colorcet as cc
+from adjustText import adjust_text
+
 path = os.path.dirname(os.path.realpath(__file__))
 path = path + '/results/'
 os.chdir(path)
@@ -48,8 +50,10 @@ def kmeans_cluster(sklearn_data, n, name) :
     plt.rc('ytick', labelsize=6) 
     plt.xlabel('Component 1', fontsize = 10)
     plt.ylabel('Component 2', fontsize = 10)
-    for i in range(len(sklearn_data[:,0])) :
-         ax.annotate(index[i], (sklearn_data[i,0], sklearn_data[i,1]), fontsize = 5)
+    # for i in range(len(sklearn_data[:,0])) :
+    #      ax.annotate(index[i], (sklearn_data[i,0], sklearn_data[i,1]), fontsize = 7)
+    annotations = [ax.annotate(index[i], (sklearn_data[i,0], sklearn_data[i,1]), fontsize = 7) for i in range(len(sklearn_data[:,0]))]
+    adjust_text(annotations)
     plt.savefig(name + '.svg', format ='svg', dpi=1200)
     plt.close()
     return clusters
@@ -71,7 +75,7 @@ for omic in ['tad', 'fragment', 'protein', 'disease']:
     data = np.load('integrated_mxr_scores/disease_dist_' + omic + '.npy')
     list_heat.append(data)
     analysis_tsne(data, 30, 'plots/'+omic+'_tsne_diseases')
-    analysis_umap(data, 30, 'plots/'+omic+'_tsne_diseases')
+    analysis_umap(data, 30, 'plots/'+omic+'_umap_diseases')
 
 full_data = np.concatenate(list_heat, axis = 1)
 analysis_tsne(full_data, 30, "plots/integrated_tsne_diseases")
