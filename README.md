@@ -99,13 +99,13 @@ Going from the list of immune diseases contained in `autoimmune_disease.txt`, ke
 
 ##### 3 - Recover the tree lineage of hematopoietic cells from MultiXrank output scores
 
-<div style="max-width:80%;"><img src="Comorbidity/results/plots/all_integrated_cells_pca.png" alt="Hematopoietic cells PCA"></div>
+<div style="max-width:80%;"><img src="Comorbidity/results/plots/all_integrated_cells_pca.svg" alt="Hematopoietic cells PCA"></div>
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/tree_lineage_analysis.py```
 
 ##### 3 - Analyse immune diseases based on MultiXrank output scores
 
 
-<div style="max-width:80%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases.png" alt="Immune diseases t-sne"></div>
+<div style="max-width:80%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases.svg" alt="Immune diseases t-sne"></div>
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/diseases_analysis.py```
