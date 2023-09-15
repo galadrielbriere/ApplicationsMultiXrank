@@ -61,12 +61,15 @@ def kmeans_cluster(sklearn_data, n, name) :
 
 def analysis_tsne(heat, n_clus, name) :
     Y_sklearn = tsne(heat)
-    kmeans_cluster(Y_sklearn, n_clus, name)
+    cl=kmeans_cluster(Y_sklearn, n_clus, name)
+    return(cl)
 
 
 def analysis_umap(heat, n_clus, name) :
     Y_sklearn = umap_fonc(heat)
-    kmeans_cluster(Y_sklearn, n_clus, name)
+    cl=kmeans_cluster(Y_sklearn, n_clus, name)
+    return(cl)
+
     
     
 list_heat = list()
@@ -78,5 +81,14 @@ for omic in ['tad', 'fragment', 'protein', 'disease']:
     analysis_umap(data, 30, 'plots/'+omic+'_umap_diseases')
 
 full_data = np.concatenate(list_heat, axis = 1)
-analysis_tsne(full_data, 30, "plots/integrated_tsne_diseases")
-analysis_umap(full_data, 30, "plots/integrated_umap_diseases")
+
+seeds = pd.read_csv('../disease_set.tsv', sep = '\t', header = None)
+
+cl=analysis_tsne(full_data, 30, "plots/integrated_tsne_diseases")
+seeds['tsne'] = cl
+
+cl=analysis_umap(full_data, 30, "plots/integrated_umap_diseases")
+seeds['umap'] = cl
+
+seeds.columns = ["Name", "Id", "tsne_clust", "umap_clust"]
+seeds.to_csv('immune_disease_clustering.tsv', sep  = '\t', header = True, index = False)

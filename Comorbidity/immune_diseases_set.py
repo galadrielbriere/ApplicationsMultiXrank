@@ -13,4 +13,5 @@ disease_net = pd.read_csv('diseases_monoplex_no_self_loop.tsv', sep = '\t', head
 list_disase_net = list(set(disease_net[0]).union(set(disease_net[1])))
 
 sub_disease = disease[disease[1].isin(list_disase_net)]
+sub_disease = sub_disease.drop_duplicates(subset=[1])
 sub_disease.to_csv('disease_set.tsv', sep  = '\t', header = None, index = False)

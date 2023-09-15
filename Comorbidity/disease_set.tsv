@@ -21,7 +21,6 @@ Lichen sclerosus	UMLS:C0023652
 Meniere’s disease	UMLS:C0025281
 Myasthenia gravis	UMLS:C0026896
 Myositis	UMLS:C0027121
-Ocular cicatricial pemphigoid	UMLS:C1282359
 Parry Romberg syndrome	UMLS:C0015458
 Pernicious anemia (PA)	UMLS:C0002892
 Primary biliary cirrhosis	UMLS:C0008312
@@ -31,12 +30,8 @@ Schmidt syndrome	UMLS:C0085860
 Sjögren’s syndrome	UMLS:C1527336
 Stiff person syndrome (SPS)	UMLS:C0085292
 Takayasu’s arteritis	UMLS:C0039263
-Temporal arteritis/Giant cell arteritis	UMLS:C1956391
-Hashimoto's syndrome	UMLS:C0677607
-Rheumatoid arthritis	UMLS:C0003873
 Burkitt lymphoma	UMLS:C0006413
 Acute myeloid leukemia	UMLS:C0023467
-Burkitt's lymphoma	UMLS:C0006413
 Chronic lymphocytic leukemia	UMLS:C0023434
 Chronic myelogenous leukemia	UMLS:C0023473
 Hodgkin's lymphoma	UMLS:C0019829
@@ -89,7 +84,6 @@ Hyper-IgD syndrome	UMLS:C0398691
 ICF syndrome	UMLS:C3279748
 IL12RB1 deficiency	UMLS:C4013949
 Immune dysfunction with T-cell inactivation due to calcium entry defect 1	UMLS:C2748568
-Immune dysfunction with T-cell inactivation due to calcium entry defect 2	UMLS:C2748568
 Immunodeficiency with hyper IgM type 1	UMLS:C0398689
 Immunodeficiency with hyper IgM type 2	UMLS:C1720956
 Immunodeficiency with hyper IgM type 3	UMLS:C1720957
@@ -132,7 +126,6 @@ Vici syndrome	UMLS:C1855772
 WHIM syndrome	UMLS:C0472817
 Wiskott Aldrich syndrome	UMLS:C0043194
 Woods Black Norbury syndrome	UMLS:C1848144
-X-linked agammaglobulinemia	UMLS:C0221026
 X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia	UMLS:C3275445
 X-linked lymphoproliferative syndrome	UMLS:C0549463
 ZAP-70 deficiency	UMLS:C2931299

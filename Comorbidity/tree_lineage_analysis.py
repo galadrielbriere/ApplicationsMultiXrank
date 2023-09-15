@@ -223,7 +223,7 @@ multi = ['tad', 'disease', 'protein', 'fragment']
 # Correspondance between multi name and number of multiplex in multilayer network
 dict_multi = {multi[0] : 3, multi[1] : 4, multi[2] : 1, multi[3] : 2}
 
-disease = 138
+disease = 131
 disease_index = [i for i in range(disease)]
 tissue = ['Ery', 'Mac0', 'MK', 'Mon', 'nB', 'nCD4', 'nCD8', 'Neu']
 
