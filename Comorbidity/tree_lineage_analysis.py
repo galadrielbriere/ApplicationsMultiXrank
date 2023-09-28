@@ -18,56 +18,6 @@ path = os.path.dirname(os.path.realpath(__file__))
 path = path + '/results/'
 os.chdir(path)
 
-
-# # This was just for checking the Latex formula is ok
-# def ranked_with_check(data1, data2) :
-#     dist = 0
-#     dis1 = list(data1[0])
-#     dis2 = list(data2[0])
-#     dico_rk1 = dict()
-#     dico_dis1 = dict()
-#     dico_rk2 = dict()
-#     dico_dis2 = dict()
-#     for k in range(len(data1)) :
-#         dico_rk1[data1[0][k]] = k
-#         dico_dis1[data1[0][k]] = data1[1][k]
-#     for k in range(len(data2)) :
-#         dico_rk2[data2[0][k]] = k
-#         dico_dis2[data2[0][k]] = data2[1][k]
-#     for k in range(min(len(dis1), len(dis2))) : 
-#         if (dis1[k] in dico_rk2.keys()) and (dis2[k] in dico_rk1.keys()) :
-#             if (dico_rk1[dis1[k]]!=k):
-#                 print(dico_rk1[dis1[k]])
-#                 print(k)
-#                 break
-#             if (dico_rk2[dis2[k]]!=k):
-#                 print(dico_rk2[dis2[k]])
-#                 print(k)
-#                 break
-#             if dico_rk1[dis1[k]]!= dico_rk2[dis2[k]]:
-#                 print(dico_rk1[dis1[k]])
-#                 print(dico_rk2[dis2[k]])
-#             if ((dico_rk1[dis1[k]]+dico_rk2[dis2[k]]+1)/2)!=((2*k+1)/2):
-#                 print((dico_rk1[dis1[k]]+dico_rk2[dis2[k]]+1)/2)
-#                 print((2*k+1)/2)
-#                 break
-#             dist1 = abs(dico_rk1[dis1[k]] - dico_rk2[dis1[k]])
-#             dist2 = abs(dico_rk1[dis2[k]] - dico_rk2[dis2[k]])
-#             dist += np.sqrt(dist1**2 + dist2**2)*(1/(((dico_rk1[dis1[k]]+dico_rk2[dis2[k]]+1)/2)**2))
-#         elif (dis1[k] not in dico_rk2.keys()) and (dis2[k] in dico_rk1.keys()) :
-#             dist1 = 0
-#             dist2 = abs(dico_rk1[dis2[k]] - dico_rk2[dis2[k]])
-#             dist += np.sqrt(dist1**2 + dist2**2)*(1/(((dico_rk1[dis1[k]]+dico_rk2[dis2[k]]+1)/2)**2))
-#         elif (dis1[k] in dico_rk2.keys()) and (dis2[k] not in dico_rk1.keys()) :
-#             dist1 = abs(dico_rk1[dis1[k]] - dico_rk2[dis1[k]])
-#             dist2 = 0
-#             dist += np.sqrt(dist1**2 + dist2**2)*(1/(((dico_rk1[dis1[k]]+dico_rk2[dis2[k]]+1)/2)**2))
-#         elif (dis1[k] not in dico_rk2.keys()) and (dis2[k] not in dico_rk1.keys()) :
-#             dist1 = 0
-#             dist2 = 0
-#             dist += 0    
-#     return dist
-
 def ranked(data1, data2) :
     dist = 0
     dis1 = list(data1[0])
