@@ -106,6 +106,6 @@ Going from the list of immune diseases contained in `autoimmune_disease.txt`, ke
 ##### 3 - Analyse immune diseases based on MultiXrank output scores
 
 
-<div style="max-width:80%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases.svg" alt="Immune diseases t-sne"></div>
+<div style="max-width:80%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases_5.svg" alt="Immune diseases t-sne"></div>
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/diseases_analysis.py```
