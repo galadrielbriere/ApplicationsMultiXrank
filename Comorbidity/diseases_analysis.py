@@ -34,11 +34,6 @@ def kmeans_cluster(sklearn_data, n, name) :
     kmeans = KMeans(n_clusters=n, random_state=0).fit(sklearn_data)
     clusters = kmeans.labels_
     df = pd.DataFrame(dict(x=sklearn_data[:,0], y=sklearn_data[:,1], label=clusters))
-    # colors = {0:'red', 1:'blue', 2:'green', 3:'orange', 4:'purple', 5:'gold', 6:'grey', 7:'pink',\
-    #           8:'navy', 9:'springgreen', 10:'salmon', 11:'skyblue', 12:'tan', 13:'sienna',\
-    #           14:'turquoise', 15:'teal', 16:'chartreuse', 17:'crimson', 18:'fuchsia', 19:'beige',\
-    #           20:'yellow', 21:'aqua', 22:'olivedrab', 23:'deeppink', 24:'maroon', 25:'mistyrose',\
-    #           26:'seagreen', 27:'darkorange', 28:'mediumpurple', 29:'khaki'}
     palette = sns.color_palette(cc.glasbey, n_colors=30)
     plt.figure(figsize=(8, 6))
     fig, ax = plt.subplots()
@@ -50,8 +45,6 @@ def kmeans_cluster(sklearn_data, n, name) :
     plt.rc('ytick', labelsize=6) 
     plt.xlabel('Component 1', fontsize = 10)
     plt.ylabel('Component 2', fontsize = 10)
-    # for i in range(len(sklearn_data[:,0])) :
-    #      ax.annotate(index[i], (sklearn_data[i,0], sklearn_data[i,1]), fontsize = 7)
     annotations = [ax.annotate(index[i], (sklearn_data[i,0], sklearn_data[i,1]), fontsize = 7) for i in range(len(sklearn_data[:,0]))]
     adjust_text(annotations)
     plt.savefig(name + '.svg', format ='svg', dpi=1200)
@@ -77,18 +70,18 @@ list_heat = list()
 for omic in ['tad', 'fragment', 'protein', 'disease']:
     data = np.load('integrated_mxr_scores/disease_dist_' + omic + '.npy')
     list_heat.append(data)
-    analysis_tsne(data, 30, 'plots/'+omic+'_tsne_diseases')
-    analysis_umap(data, 30, 'plots/'+omic+'_umap_diseases')
+    analysis_tsne(data, 5, 'plots/'+omic+'_tsne_diseases_5')
+    analysis_umap(data, 5, 'plots/'+omic+'_umap_diseases_5')
 
 full_data = np.concatenate(list_heat, axis = 1)
 
 seeds = pd.read_csv('../disease_set.tsv', sep = '\t', header = None)
 
-cl=analysis_tsne(full_data, 30, "plots/integrated_tsne_diseases")
+cl=analysis_tsne(full_data, 5, "plots/integrated_tsne_diseases_5")
 seeds['tsne'] = cl
 
-cl=analysis_umap(full_data, 30, "plots/integrated_umap_diseases")
+cl=analysis_umap(full_data, 5, "plots/integrated_umap_diseases_5")
 seeds['umap'] = cl
 
 seeds.columns = ["Name", "Id", "tsne_clust", "umap_clust"]
-seeds.to_csv('immune_disease_clustering.tsv', sep  = '\t', header = True, index = False)
+seeds.to_csv('immune_disease_clustering_5.tsv', sep  = '\t', header = True, index = False)
