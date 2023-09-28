@@ -9,7 +9,7 @@ Run MultiXrank using the following command line:
 
 Visualize top 20 proritized genes and drugs in Cytoscape with file: [Leukemia/multiXrank_results/top20_cyto.cys](Leukemia/multiXrank_results/top20_cyto.cys)
 
-<div style="max-width:80%;"><img src="Leukemia/multiXrank_results/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
+<div style="max-width:70%;"><img src="Leukemia/multiXrank_results/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
 
 ## Node prioritization in Epilepsy and Nicotine Dependence using the Hetionet network
 
@@ -99,13 +99,13 @@ Going from the list of immune diseases contained in `autoimmune_disease.txt`, ke
 
 ##### 3 - Recover the tree lineage of hematopoietic cells from MultiXrank output scores
 
-<div style="max-width:80%;"><img src="Comorbidity/results/plots/all_integrated_cells_pca.svg" alt="Hematopoietic cells PCA"></div>
+<div style="max-width:70%;"><img src="Comorbidity/results/plots/all_integrated_cells_pca.svg" alt="Hematopoietic cells PCA"></div>
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/tree_lineage_analysis.py```
 
 ##### 3 - Analyse immune diseases based on MultiXrank output scores
 
 
-<div style="max-width:80%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases_5.svg" alt="Immune diseases t-sne"></div>
+<div style="max-width:70%;"><img src="Comorbidity/results/plots/integrated_tsne_diseases_5.svg" alt="Immune diseases t-sne"></div>
 
 ```python ~/ApplicationsMultiXrank/Comorbidity/diseases_analysis.py```
