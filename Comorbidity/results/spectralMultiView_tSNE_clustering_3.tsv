@@ -1,0 +1,132 @@
+Name	Id	SpectralMultiView
+Agammaglobulinemia	UMLS:C0221026	0
+Behcet’s disease	UMLS:C0004943	2
+Chronic recurrent multifocal osteomyelitis (CRMO)	UMLS:C0410422	2
+Cicatricial pemphigoid	UMLS:C1282359	2
+Congenital heart block	UMLS:C0149530	1
+Eosinophilic esophagitis (EoE)	UMLS:C0341106	2
+Eosinophilic fasciitis	UMLS:C0264005	2
+Giant cell arteritis (temporal arteritis)	UMLS:C1956391	2
+Goodpasture’s syndrome	UMLS:C0403529	2
+Granulomatosis with Polyangiitis	UMLS:C3495801	2
+Hashimoto’s thyroiditis	UMLS:C0677607	0
+Hypogammaglobulinemia AGM2 (IGLL1)	UMLS:C3150750	0
+Hypogammaglobulinemia AGM3 (CD79A)	UMLS:C3150751	0
+Hypogammaglobulinemia AGM4 (BLNK)	UMLS:C3150752	0
+Hypogammaglobulinemia AGM5 (LRRC8A)	UMLS:C3150753	0
+Hypogammaglobulinemia AGM6 (CD79B)	UMLS:C3150207	0
+Immune thrombocytopenic purpura (ITP)	UMLS:C0398650	0
+Inclusion body myositis (IBM)	UMLS:C0238190	1
+Kawasaki disease (Mucocutaneous Lymph Node Syndrome)	UMLS:C0026691	2
+Lichen sclerosus	UMLS:C0023652	1
+Meniere’s disease	UMLS:C0025281	1
+Myasthenia gravis	UMLS:C0026896	2
+Myositis	UMLS:C0027121	2
+Parry Romberg syndrome	UMLS:C0015458	1
+Pernicious anemia (PA)	UMLS:C0002892	1
+Primary biliary cirrhosis	UMLS:C0008312	2
+Raynaud’s phenomenon	UMLS:C0034734	1
+Rheumatoid arthritis	UMLS:C0003873	2
+Schmidt syndrome	UMLS:C0085860	2
+Sjögren’s syndrome	UMLS:C1527336	0
+Stiff person syndrome (SPS)	UMLS:C0085292	1
+Takayasu’s arteritis	UMLS:C0039263	2
+Burkitt lymphoma	UMLS:C0006413	1
+Acute myeloid leukemia	UMLS:C0023467	1
+Chronic lymphocytic leukemia	UMLS:C0023434	1
+Chronic myelogenous leukemia	UMLS:C0023473	1
+Hodgkin's lymphoma	UMLS:C0019829	1
+Myelodysplastic syndromes	UMLS:C3463824	1
+Non-Hodgkin lymphoma	UMLS:C0024305	1
+Mycosis fungoides	UMLS:C0026948	2
+Type 1 diabetes	UMLS:C0011854	2
+22q11.2 deletion syndrome (DiGeorge syndrome)	UMLS:C0220704	1
+22q11.2 deletion syndrome (DiGeorge syndrome)	UMLS:C0431406	1
+22q11.2 deletion syndrome (DiGeorge syndrome)	UMLS:C0012236	1
+Aicardi-Goutieres syndrome	UMLS:C3489725	1
+Aicardi-Goutieres syndrome	UMLS:C0796126	1
+Aicardi-Goutieres syndrome	UMLS:C3489724	1
+Amyloidosis familial visceral	UMLS:C0268389	2
+Ataxia telangiectasia	UMLS:C0004135	1
+Autoimmune lymphoproliferative syndrome	UMLS:C1328840	0
+Autoimmune lymphoproliferative syndrome due to CTLA4 haploinsuffiency	UMLS:C4015214	0
+Autoimmune polyglandular syndrome type 1	UMLS:C0085859	2
+Autosomal dominant hyper IgE syndrome	UMLS:C3489795	0
+Autosomal recessive candidiasis familial chronic mucocutaneous	UMLS:C3714992	0
+Autosomal recessive early-onset inflammatory bowel disease 28	UMLS:C2751053	2
+Autosomal recessive early-onset inflammatory bowel disease 25	UMLS:C2675508	2
+Barth syndrome	UMLS:C0574083	1
+Blau syndrome	UMLS:C1861303	2
+Bloom syndrome	UMLS:C0005859	1
+C1q deficiency	UMLS:C3150902	0
+Cartilage-hair hypoplasia	UMLS:C0220748	1
+CHARGE syndrome	UMLS:C0265354	1
+Chediak-Higashi syndrome	UMLS:C0007965	1
+Cherubism	UMLS:C0008029	1
+Combined immunodeficiency with skin granulomas	UMLS:C2673536	0
+Complement component 2 deficiency	UMLS:C3150275	0
+Complement component 8 deficiency type 1	UMLS:C3151081	0
+Complement component 8 deficiency type 2	UMLS:C3151080	0
+Cryoglobulinemic vasculitis	UMLS:C1852456	2
+Cyclic neutropenia	UMLS:C0221023	0
+Deficiency of interleukin-1 receptor antagonist	UMLS:C2748507	0
+Dendritic cell, monocyte, B lymphocyte, and natural killer lymphocyte deficiency	UMLS:C3280030	0
+Epidermodysplasia verruciformis	UMLS:C0014522	1
+Familial cold autoinflammatory syndrome	UMLS:C0343068	2
+Familial hemophagocytic lymphohistiocytosis	UMLS:C0272199	0
+Familial Mediterranean fever	UMLS:C0031069	2
+Felty's syndrome	UMLS:C0015773	0
+Glycogen storage disease type 1B	UMLS:C0268146	1
+Griscelli syndrome type 2	UMLS:C1868679	1
+Hepatic venoocclusive disease with immunodeficiency	UMLS:C1856128	0
+Hereditary folate malabsorption	UMLS:C0342705	1
+Hermansky Pudlak syndrome 2	UMLS:C1842362	1
+Hyper-IgD syndrome	UMLS:C0398691	2
+ICF syndrome	UMLS:C3279748	0
+IL12RB1 deficiency	UMLS:C4013949	0
+Immune dysfunction with T-cell inactivation due to calcium entry defect 1	UMLS:C2748568	0
+Immunodeficiency with hyper IgM type 1	UMLS:C0398689	0
+Immunodeficiency with hyper IgM type 2	UMLS:C1720956	0
+Immunodeficiency with hyper IgM type 3	UMLS:C1720957	0
+Immunodeficiency with hyper IgM type 4	UMLS:C1842413	0
+Immunodeficiency with hyper IgM type 5	UMLS:C1720958	0
+Immunodeficiency without anhidrotic ectodermal dysplasia	UMLS:C1845117	0
+Immune dysregulation, polyendocrinopathy and enteropathy X-linked	UMLS:C0342288	0
+Immunoglobulin A deficiency 2	UMLS:C1836032	0
+Intestinal atresia multiple	UMLS:C0220744	0
+IRAK-4 deficiency	UMLS:C1843256	0
+Isolated growth hormone deficiency type 3	UMLS:C0472813	0
+Leukocyte adhesion deficiency type 1	UMLS:C0398738	0
+LRBA deficiency	UMLS:C3553512	0
+Majeed syndrome	UMLS:C1864997	2
+Melkersson-Rosenthal syndrome	UMLS:C0025235	1
+MHC class 1 deficiency	UMLS:C1858266	0
+MYD88 deficiency	UMLS:C2677092	0
+Netherton syndrome	UMLS:C0265962	2
+Neutrophil-specific granule deficiency	UMLS:C0398593	0
+Osteopetrosis autosomal recessive 7	UMLS:C2676766	1
+Papillon Lefevre syndrome	UMLS:C0030360	2
+PASLI disease	UMLS:C4014934	0
+PASLI disease	UMLS:C3714976	0
+Pearson syndrome	UMLS:C0342784	1
+PGM3-CDG	UMLS:C4014371	0
+Poikiloderma with neutropenia	UMLS:C1858723	0
+Pruritic urticarial papules plaques of pregnancy	UMLS:C0269680	1
+Purine nucleoside phosphorylase deficiency	UMLS:C0268125	0
+Pyogenic arthritis, pyoderma gangrenosum and acne	UMLS:C1858361	2
+Reticular dysgenesis	UMLS:C0272167	0
+Schimke immuno-osseous dysplasia	UMLS:C0877024	1
+Severe congenital neutropenia X-linked	UMLS:C1845987	0
+Short-limb skeletal dysplasia with severe combined immunodeficiency	UMLS:C1860168	0
+Shwachman-Diamond syndrome	UMLS:C0272170	1
+Spondyloenchondrodysplasia with immune dysregulation	UMLS:C1842763	0
+T-cell immunodeficiency, congenital alopecia and nail dystrophy	UMLS:C1866426	0
+TARP syndrome	UMLS:C1839463	1
+Tumor necrosis factor receptor-associated periodic syndrome	UMLS:C1275126	2
+Vici syndrome	UMLS:C1855772	0
+WHIM syndrome	UMLS:C0472817	0
+Wiskott Aldrich syndrome	UMLS:C0043194	0
+Woods Black Norbury syndrome	UMLS:C1848144	1
+X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia	UMLS:C3275445	0
+X-linked lymphoproliferative syndrome	UMLS:C0549463	0
+ZAP-70 deficiency	UMLS:C2931299	0
