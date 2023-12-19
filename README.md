@@ -9,9 +9,11 @@ Run MultiXrank using the following command line:
 
 Visualize top 20 proritized genes and drugs in Cytoscape with file: [Leukemia/multiXrank_results/top20_cyto.cys](Leukemia/multiXrank_results/top20_cyto.cys)
 
+:warning:  **We extended this use-case to include regulatory and metabolic networks. A tutorial for creating the networks and running MutliXrank on this use-case is available in the form of a Jupyter-Notebook is available on this GitHub:**  [Leukemia_2](https://github.com/galadrielbriere/ApplicationsMultiXrank/blob/main/Leukemia_2/Node%20prioritisation%20in%20Leukemia%20with%20regulatory%20and%20metabolic%20networks.ipynb)
+
+
 <div style="max-width:70%;"><img src="Leukemia/multiXrank_results/top20.png" alt="Top 20 genes and drugs prioritized in Leukemia"></div>
 
-:warning:  **We extended this use-case to include regulatory and metabolic networks. A tutorial for creating the networks and running MutliXrank on this use-case is available in the form of a Jupyter-Notebook is available on this GitHub:**  [Leukemia_2](https://github.com/galadrielbriere/ApplicationsMultiXrank/blob/main/Leukemia_2/Node%20prioritisation%20in%20Leukemia%20with%20regulatory%20and%20metabolic%20networks.ipynb)
 
 ## Node prioritization in Epilepsy and Nicotine Dependence using the Hetionet network
 
